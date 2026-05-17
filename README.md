@@ -56,7 +56,7 @@
 - **Pannolini** — supporto per il servizio di raccolta pannolini supplementare
 
 ### 🔍 Dove lo butto? (Ricerca oggetti)
-Più di **100 oggetti** indicizzati con:
+Più di **10.000 oggetti** indicizzati con:
 - Ricerca fuzzy con alias (es. "penna bic", "biro", "penne" → Secco Residuale)
 - Risultati con: contenitore, tipo sacchetto, prossimo ritiro, giorni di raccolta
 - Suggerimenti rapidi e autocomplete
