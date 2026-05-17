@@ -43,7 +43,7 @@
 | Configura Comune | Check e Salva | Home | Notifiche |
 |:---:|:---:|:---:|:---:|
 | ![Configura Comune](img/iPhone%20Screenshot/Simulator%20Screenshot%20-%20iPhone%2017%20-%202026-05-16%20at%2020.46.44.jpg) | ![Check e Salva](img/iPhone%20Screenshot/Simulator%20Screenshot%20-%20iPhone%2017%20-%202026-05-16%20at%2020.47.11.jpg) | ![Home](img/iPhone%20Screenshot/Simulator%20Screenshot%20-%20iPhone%2017%20-%202026-05-16%20at%2020.48.20.jpg) | ![Notifiche](img/iPhone%20Screenshot/Simulator%20Screenshot%20-%20iPhone%2017%20-%202026-05-16%20at%2020.48.26.jpg) |
-| Home principale con calendario settimanale e cosa esporre domani | Cerca oggetti — risultati con contenitore, sacchetto e prossimo ritiro | Setup wizard — configurazione comune e giorni di raccolta | Riepilogo e salvataggio profilo |
+| Setup wizard — configurazione comune e giorni di raccolta | Riepilogo e salvataggio profilo | Home principale con calendario settimanale e cosa esporre domani | Notifica visiva su HomeView |
 
 ---
 
