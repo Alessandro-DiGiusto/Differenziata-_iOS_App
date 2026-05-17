@@ -1,0 +1,3259 @@
+[
+  {
+    "id": "organico-bucce-frutta",
+    "title": "Bucce di frutta",
+    "aliases": ["bucce di frutta", "bucce", "buccia banana", "buccia mela", "buccia pera", "scorza", "bucce arancia", "bucce limone", "bucce mandarino"],
+    "material_id": "organico",
+    "note": "Tutti gli scarti di frutta vanno nell'organico."
+  },
+  {
+    "id": "organico-bucce-patate",
+    "title": "Bucce di patate",
+    "aliases": ["bucce di patate", "bucce patata", "scarti patate", "pelature patate"],
+    "material_id": "organico",
+    "note": "Scarti di verdure — organico."
+  },
+  {
+    "id": "organico-gusci-uova",
+    "title": "Gusci d'uovo",
+    "aliases": ["gusci d'uovo", "gusci uova", "guscio uovo", "uova gusci", "scarti uova"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-fondi-caffe",
+    "title": "Fondi di caffè",
+    "aliases": ["fondi di caffe", "fondi caffe", "caffe fondi", "caffe esausto", "fondo caffe", "caffe macinato usato"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-filtri-te",
+    "title": "Filtri di tè",
+    "aliases": ["filtri di te", "filtri te", "filtro te", "filtro tè", "bustine te", "bustine di te", "tè filtro", "filtro camomilla"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-carta-assorbente",
+    "title": "Carta assorbente da cucina unta",
+    "aliases": ["carta assorbente", "carta cucina unta", "scottex", "carta assorbente unta", "rotolo cucina", "carta da cucina sporca"],
+    "material_id": "organico",
+    "note": "Se unta o sporca di cibo. Se pulita, va nella carta."
+  },
+  {
+    "id": "organico-cartone-pizza-unto",
+    "title": "Cartone della pizza unto",
+    "aliases": ["cartone pizza unto", "scatola pizza unta", "pizza unto", "contenitore pizza unto", "scatola pizza sporca"],
+    "material_id": "organico",
+    "note": "Se è sporco di cibo o unto. Se pulito, va nella carta."
+  },
+  {
+    "id": "organico-avanzi-pasto",
+    "title": "Avanzi di pasti",
+    "aliases": ["avanzi", "avanzi pasti", "resti cibo", "cibo avanzato", "scarti cibo", "cibo scaduto", "cibo vecchio"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-pane-vecchio",
+    "title": "Pane vecchio",
+    "aliases": ["pane vecchio", "pane", "pane duro", "pane secco", "mollica", "pane avanzato", "panini vecchi", "pane raffermo"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-resti-carne",
+    "title": "Resti di carne ed ossa",
+    "aliases": ["resti carne", "ossa", "osso", "carne avanzi", "scarti carne", "pollo ossa", "lische", "carne vecchia"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-lische-pesce",
+    "title": "Lische di pesce",
+    "aliases": ["lische pesce", "lische", "pesce lische", "scarti pesce", "testa pesce", "pesce avanzi"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-fiammiferi",
+    "title": "Fiammiferi usati",
+    "aliases": ["fiammiferi usati", "fiammiferi", "cerini", "cerino", "fiammifero"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-tappi-sughero",
+    "title": "Tappi di sughero",
+    "aliases": ["tappi sughero", "tappo sughero", "sughero", "tappi vino", "tappo vino sughero"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-fiori-secchi",
+    "title": "Fiori secchi e appassiti",
+    "aliases": ["fiori secchi", "fiori appassiti", "fiori morti", "piante secche", "mazzi fiori secchi", "petali secchi"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-piante-domestiche",
+    "title": "Piante domestiche (piccole quantità)",
+    "aliases": ["piante", "piantine", "piante morte", "foglie piante", "terriccio", "piante in vaso", "rametti"],
+    "material_id": "organico",
+    "note": "Solo per piccole quantità domestiche. Per grandi quantità, rivolgiti al centro di raccolta."
+  },
+  {
+    "id": "organico-erba-tagliata",
+    "title": "Erba tagliata",
+    "aliases": ["erba tagliata", "erba", "prato", "sfalci", "erba prato", "fieno", "paglia"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-foglie-secche",
+    "title": "Foglie secche",
+    "aliases": ["foglie secche", "foglie", "fogliame", "foglie morte", "rametti foglie"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-cenere",
+    "title": "Cenere di camino spenta",
+    "aliases": ["cenere", "cenere camino", "ceneri", "ceneri camino", "braci spente", "legna bruciata"],
+    "material_id": "organico",
+    "note": "La cenere deve essere completamente spenta e fredda."
+  },
+  {
+    "id": "organico-tovaglioli-carta",
+    "title": "Tovaglioli di carta usati",
+    "aliases": ["tovaglioli carta", "tovaglioli sporchi", "tovaglioli usati", "salviette carta", "fazzoletti carta sporchi"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-stuzzicadenti",
+    "title": "Stuzzicadenti",
+    "aliases": ["stuzzicadenti", "stecchino", "stuzzicadenti legno", "stecchini"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-bastoncini-gelato",
+    "title": "Bastoncini di gelato in legno",
+    "aliases": ["bastoncini gelato", "bastoncino gelato", "stecco gelato", "legno gelato"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-formaggio",
+    "title": "Formaggio scaduto",
+    "aliases": ["formaggio scaduto", "formaggio vecchio", "formaggio", "scarti formaggio", "crosta formaggio"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-salumi",
+    "title": "Salumi scaduti",
+    "aliases": ["salumi", "salumi scaduti", "affettati", "prosciutto scaduto", "mortadella", "salame", "wurstel"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-pasta-avanzata",
+    "title": "Pasta avanzata",
+    "aliases": ["pasta avanzata", "pasta", "pasta scaduta", "pasta secca", "spaghetti", "maccheroni"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-riso-avanzato",
+    "title": "Riso avanzato",
+    "aliases": ["riso avanzato", "riso", "riso scaduto", "riso crudo"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-frutta-secca",
+    "title": "Frutta secca (gusci)",
+    "aliases": ["frutta secca", "gusci noci", "gusci mandorle", "noci", "mandorle", "nocciole", "arachidi", "gusci pistacchi", "pinoli"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-olive",
+    "title": "Noccioli di olive",
+    "aliases": ["noccioli olive", "olive", "noccioli", "ncciolo oliva", "scarti olive"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-frutta-matura",
+    "title": "Frutta marcia",
+    "aliases": ["frutta marcia", "frutta andata a male", "frutta scaduta", "frutta bacata"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-verdure-marcie",
+    "title": "Verdure marce",
+    "aliases": ["verdure marce", "verdura scaduta", "insalata marcia", "pomodori marci", "zucchine marce"],
+    "material_id": "organico"
+  },
+  {
+    "id": "secco-penna-bic",
+    "title": "Penna Bic",
+    "aliases": ["penna bic", "penna", "biro", "penne", "penna cancellerie", "penna a sfera", "penna biro", "evidenziatore"],
+    "material_id": "secco",
+    "note": "Oggetto non riciclabile nel calendario ordinario."
+  },
+  {
+    "id": "secco-cicche-sigaretta",
+    "title": "Cicche di sigaretta",
+    "aliases": ["cicche sigaretta", "cicche", "mozzicone", "mozziconi", "filtro sigaretta", "sigaretta", "cicca", "sigaretta fumata", "tabacco"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-posate-plastica",
+    "title": "Posate di plastica",
+    "aliases": ["posate plastica", "forchetta plastica", "coltello plastica", "cucchiaio plastica", "posate usa e getta"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-giocattoli- rotti",
+    "title": "Giocattoli rotti",
+    "aliases": ["giocattoli rotti", "giocattoli", "giochi rotti", "bambole rotte", "macchinine rotte", "puzzle rotti", "peluche rotti"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-gomma",
+    "title": "Oggetti in gomma",
+    "aliases": ["gomma", "oggetti gomma", "pneumatici piccoli", "gomma cancellare", "gomma elastico", "elastico"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-cd-dvd",
+    "title": "CD/DVD",
+    "aliases": ["cd", "dvd", "dischi", "cd rom", "dvd video", "disco musicale", "blu ray", "supporti ottici"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-videocassette",
+    "title": "Videocassette",
+    "aliases": ["videocassette", "vhs", "musicassette", "cassette audio", "nastro magnetico"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-stracci",
+    "title": "Stracci e panni",
+    "aliases": ["stracci", "panni", "pezze", "stracci polvere", "panni sporchi", "cenci"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-ceramica",
+    "title": "Ceramica e porcellana (cocci)",
+    "aliases": ["ceramica", "porcellana", "cocci", "terracotta", "tazza rotta", "piatto rotto", "ceramiche rotte", "vaso rotto"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-rasoi",
+    "title": "Rasoio usa e getta",
+    "aliases": ["rasoio", "rasoi", "lametta", "lamette", "rasoio usa e getta", "rasoio usa e getta"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-spazzolini",
+    "title": "Spazzolino da denti",
+    "aliases": ["spazzolino", "spazzolini", "spazzolino denti", "spazzolino elettrico", "testina spazzolino"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-guanti-gomma",
+    "title": "Guanti in gomma o lattice",
+    "aliases": ["guanti gomma", "guanti lattice", "guanti monouso", "guanti usa e getta", "guanti da lavoro"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-sacchetti-freezer",
+    "title": "Sacchetti per freezer",
+    "aliases": ["sacchetti freezer", "sacchetto freezer", "sacchetti surgelati", "sacchetto surgelati"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-cannucce",
+    "title": "Cannucce",
+    "aliases": ["cannucce", "cannuccia", "canucce", "cannucce plastica"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-sottovasi",
+    "title": "Sottovasi",
+    "aliases": ["sottovasi", "sottovaso", "vasi plastica", "vasi fiori plastica", "portavasi"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-assorbenti",
+    "title": "Assorbenti igienici",
+    "aliases": ["assorbenti", "assorbente", "assorbenti igienici", "salviette intime", "coppetta mestruale", "pannolini"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-pannolini",
+    "title": "Pannolini e pannoloni",
+    "aliases": ["pannolini", "pannoloni", "pannolino", "pampers", "pannolini bebè", "pannoloni adulti", "mutandine assorbenti"],
+    "material_id": "secco",
+    "note": "Se il comune offre il servizio pannolini supplementare, segui le istruzioni specifiche."
+  },
+  {
+    "id": "secco-lettiera-gatti",
+    "title": "Lettiera per animali",
+    "aliases": ["lettiera gatti", "lettiera", "sabbia gatti", "sabbietta", "pipì gatto", "lettiera usata"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-cotton-fioc",
+    "title": "Cotton fioc",
+    "aliases": ["cotton fioc", "cottonfioc", "bastoncini cotone", "bastoncini orecchie", "cotone igienico"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-cerotti",
+    "title": "Cerotti",
+    "aliases": ["cerotti", "cerotto", "cerotti medicina", "cerotto usato", "bende adesive", "garze"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-mascherine",
+    "title": "Mascherine usa e getta",
+    "aliases": ["mascherine", "mascherina", "mascherine ffp2", "mascherine chirurgiche", "mascherina usa e getta", "ffp2"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-gomma-masticare",
+    "title": "Gomma da masticare",
+    "aliases": ["gomma masticare", "gomma da masticare", "chewing gum", "gomma americana", "cicca"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-collant",
+    "title": "Collant e calze",
+    "aliases": ["collant", "calze", "collant rotti", "calze rotte", "calzamaglia", "collant nylon"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-spugne",
+    "title": "Spugne sintetiche",
+    "aliases": ["spugne", "spugna", "spugna cucina", "spugna sintetica", "spugnetta", "panno spugna"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-cassette",
+    "title": "Cassette di plastica per frutta (rigide)",
+    "aliases": ["cassette plastica", "cassetta frutta", "cassette rigide", "cassette plastica dura"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-pennarelli",
+    "title": "Pennarelli",
+    "aliases": ["pennarelli", "pennarello", "evidenziatore", "evidenziatori", "pennarello cancelleria"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-matite",
+    "title": "Matite e gomme da cancellare",
+    "aliases": ["matita", "matite", "gomma cancellare", "gomma matita", "portamina", "temperamatite"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-portachiavi",
+    "title": "Portachiavi",
+    "aliases": ["portachiavi", "portachiave", "porta chiavi"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-custodie-telefono",
+    "title": "Custodia per telefono",
+    "aliases": ["custodia telefono", "cover telefono", "cover cellulare", "custodia cellulare", "cover iPhone", "cover rotte"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-cassette-cosmetici",
+    "title": "Detersivi e cosmetici non pericolosi esausti",
+    "aliases": ["detersivi", "flacone detersivo", "cosmetici", "crema viso", "tubetto dentifricio", "dentifricio", "shampoo", "bagnoschiuma"],
+    "material_id": "secco",
+    "note": "Flaconi e tubetti ben strizzati. Se sono in plastica riciclabile, alcuni comuni li accettano nella plastica."
+  },
+  {
+    "id": "secco-fazzoletti",
+    "title": "Fazzoletti di carta usati",
+    "aliases": ["fazzoletti", "fazzoletti carta", "fazzolettini", "kleenex", "fazzoletti usati", "moccoli"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-carta-carbone",
+    "title": "Carta carbone e copiativa",
+    "aliases": ["carta carbone", "carta copiativa", "carta copiativo"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-carta-plastificata",
+    "title": "Carta plastificata",
+    "aliases": ["carta plastificata", "carta oleata", "carta forno", "carta da forno", "carta stagnola sporca"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-scontrini",
+    "title": "Scontrini",
+    "aliases": ["scontrini", "scontrino", "ricevuta", "scontrino fiscale", "scontrino carta termica"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-gratta-vinci",
+    "title": "Gratta e vinci",
+    "aliases": ["gratta vinci", "grattaevinci", "biglietti lotteria", "gratta e vinci"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-piastrelle",
+    "title": "Piastrelle rotte (piccole quantità)",
+    "aliases": ["piastrelle", "piastrella", "mattonelle", "piastrelle rotte", "ceramica bagno"],
+    "material_id": "secco",
+    "note": "Solo piccole quantità domestiche."
+  },
+  {
+    "id": "secco-sacchetti-aspirapolvere",
+    "title": "Sacchetti dell'aspirapolvere",
+    "aliases": ["sacchetti aspirapolvere", "sacchetto aspirapolvere", "aspirapolvere sacchetto", "polvere aspirapolvere"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-deodoranti",
+    "title": "Deodoranti (contenitori non riciclabili)",
+    "aliases": ["deodorante", "deodoranti", "stick deodorante", "deodorante roll-on"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-fotografie",
+    "title": "Fotografie",
+    "aliases": ["fotografie", "foto", "stampe fotografiche", "fotografia"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-nastro-adesivo",
+    "title": "Nastro adesivo e scotch",
+    "aliases": ["nastro adesivo", "scotch", "nastro da pacchi", "nastro carta", "nastro trasparente", "cellophane adesivo"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-buste-plastica",
+    "title": "Buste e sacchetti in plastica non riciclabile",
+    "aliases": ["busta plastica", "sacchetto plastica", "busta", "sacchetto", "buste spazzatura", "sacchetto immondizia"],
+    "material_id": "secco",
+    "note": "I sacchetti in plastica per la spazzatura vanno nel secco. I sacchetti puliti della spesa possono andare nella plastica."
+  },
+  {
+    "id": "secco-penne-cancelleria",
+    "title": "Penna cancelleria varia",
+    "aliases": ["penna cancellerie", "penne stilo", "penna roller", "penna gel", "penna cancelleria", "penna stilografica"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-cartucce-stampante",
+    "title": "Cartucce per stampante esauste",
+    "aliases": ["cartucce stampante", "cartuccia", "toner", "cartucce esauste", "toner stampante", "cartuccia inchiostro"],
+    "material_id": "secco",
+    "note": "Alcuni comuni hanno raccolte specifiche per cartucce. Verifica se esistono punti di raccolta dedicati."
+  },
+  {
+    "id": "secco-pile",
+    "title": "Pile e batterie esauste",
+    "aliases": ["pile", "pile esauste", "pila", "batteria", "batterie", "pila scarica"],
+    "material_id": "secco",
+    "note": "Rifiuto pericoloso. Portale negli appositi contenitori nei supermercati o all'isola ecologica. Non nel secco domestico."
+  },
+  {
+    "id": "secco- medicinali scaduti",
+    "title": "Medicinali scaduti",
+    "aliases": ["medicinali", "farmaci", "medicinali scaduti", "farmaci scaduti", "medicine", "pillole", "compresse", "sciroppo"],
+    "material_id": "secco",
+    "note": "Rifiuto pericoloso. Portali negli appositi contenitori in farmacia. Non nel secco domestico."
+  },
+  {
+    "id": "secco-lampadine",
+    "title": "Lampadine a incandescenza",
+    "aliases": ["lampadina", "lampadine", "lampadina bruciata", "lampadina vetro", "lampadine vecchie"],
+    "material_id": "secco",
+    "note": "Vanno portate all'isola ecologica o nei contenitori dedicati. Non nel vetro."
+  },
+  {
+    "id": "secco-neon",
+    "title": "Tubi al neon / fluorescenti",
+    "aliases": ["neon", "tubo neon", "fluorescente", "lampada neon", "tubo al neon", "luce neon"],
+    "material_id": "secco",
+    "note": "Rifiuto pericoloso. Portali all'isola ecologica."
+  },
+  {
+    "id": "secco-borraccia",
+    "title": "Borraccia in plastica",
+    "aliases": ["borraccia", "borraccia plastica", "borraccia sportiva"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-pentole",
+    "title": "Pentole e padelle (piccole, rovinate)",
+    "aliases": ["pentole", "padelle", "pentolino", "pentola", "coperchi pentole", "pentole rovinate"],
+    "material_id": "secco",
+    "note": "Se sono in metallo e in buono stato, possono andare all'isola ecologica come rottami metallici."
+  },
+  {
+    "id": "secco-cerniere",
+    "title": "Cerniere e bottoni metallici",
+    "aliases": ["cerniere", "cerniera", "bottoni", "bottomi metallici", "chiusure lampo"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-posate-metallo",
+    "title": "Posate in metallo vecchie",
+    "aliases": ["posate metallo", "forchetta metallo", "coltello metallo", "cucchiaio metallo", "argenteria vecchia"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-ombrelli",
+    "title": "Ombrelli rotti",
+    "aliases": ["ombrelli", "ombrello", "ombrello rotto", "ombrello vecchio"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-spazzole",
+    "title": "Spazzole e scopini",
+    "aliases": ["spazzole", "spazzola", "scopino", "spazzola capelli", "spazzolino abiti", "setole"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-portafoglio",
+    "title": "Portafoglio vecchio",
+    "aliases": ["portafoglio", "portafoglio vecchio", "portafogli", "borsellino", "portamonete"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-borse- usate",
+    "title": "Borse e borsette usate",
+    "aliases": ["borsa", "borsetta", "borse", "borsa vecchia", "zaino", "zaini", "borsa tessuto"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-cartoncini",
+    "title": "Biglietti da visita e carta plastificata",
+    "aliases": ["biglietti visita", "biglietto da visita", "tessere", "carte plastificate", "tessere fedeltà", "bancomat scaduta", "carte credito"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-gommapiuma",
+    "title": "Gommapiuma e cuscini vecchi",
+    "aliases": ["gommapiuma", "cuscino", "cuscini", "imbottitura", "materasso piccolo", "cuscino vecchio"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-tappeti",
+    "title": "Tappeti e zerbini (piccoli)",
+    "aliases": ["tappeto", "tappeti", "zerbino", "zerbini", "tappeto piccolo", "passatoia"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-tende",
+    "title": "Tende e stoffe vecchie",
+    "aliases": ["tende", "tenda", "stoffe", "stoffa", "tessuto", "tende vecchie", "cucitura", "ritagli stoffa"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-cucchiai-legno",
+    "title": "Cucchiai e mestoli di legno",
+    "aliases": ["cucchiaio legno", "mestolo legno", "legno cucina", "paletta legno"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-taglieri",
+    "title": "Taglieri in legno o plastica",
+    "aliases": ["tagliere", "taglieri", "tagliere legno", "tagliere plastica", "asse taglio"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-bottiglie-olio",
+    "title": "Bottiglia di olio di oliva esausta",
+    "aliases": ["bottiglia olio", "olio oliva", "olio di oliva", "bottiglia olio vetro"],
+    "material_id": "secco",
+    "note": "Se la bottiglia è in vetro, va nel vetro dopo averla sciacquata. Qui si intende la bottiglia con olio esausto non recuperabile."
+  },
+  {
+    "id": "secco-linterna",
+    "title": "Lanterne e lumini",
+    "aliases": ["lanterna", "lumino", "lumini", "candela", "candele", "cero", "cioccolatino"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-bottiglie-profumo",
+    "title": "Bottiglie di profumo vuote",
+    "aliases": ["profumo", "bottiglia profumo", "flacone profumo", "profumo vuoto"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-cartucce-vuoto",
+    "title": "Cartucce vuote di sigaretta elettronica",
+    "aliases": ["sigaretta elettronica", "cartuccia sigaretta elettronica", "e-cig", "cartucce vuote"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-custodie-occhiali",
+    "title": "Custodia per occhiali",
+    "aliases": ["custodia occhiali", "astuccio occhiali", "custodia occhiali da sole"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-pipette",
+    "title": "Pipette e contagocce in plastica",
+    "aliases": ["pipetta", "contagocce", "pipette", "pipetta plastica"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-sacchetti-compost",
+    "title": "Sacchetti in plastica compostabile (sbagliati)",
+    "aliases": ["sacchetti compostabili", "sacchetto compostabile", "bioplastica", "sacchetti biodegradabili", "mater-bi"],
+    "material_id": "secco",
+    "note": "I sacchetti compostabili vanno nell'organico. Se non sei sicuro che siano certificati, mettili nel secco."
+  },
+  {
+    "id": "secco-filtri-condizionatore",
+    "title": "Filtri del condizionatore",
+    "aliases": ["filtri condizionatore", "filtro aria", "filtri aria", "filtro condizionatore", "filtro purificatore"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-micropile",
+    "title": "Micro pile (orologi, calcolatrici)",
+    "aliases": ["pila orologio", "micro pila", "pila calcolatrice", "pila bottonne", "pila mini"],
+    "material_id": "secco",
+    "note": "Le micro pile vanno portate nei contenitori appositi per pile esauste."
+  },
+  {
+    "id": "secco-cavi",
+    "title": "Cavi elettrici e caricabatterie",
+    "aliases": ["cavi", "cavo", "cavetti", "caricabatterie", "caricatore", "cavo usb", "cuffie rotte"],
+    "material_id": "secco",
+    "note": "RAEE — portali all'isola ecologica o nei centri di raccolta."
+  },
+  {
+    "id": "vetro-bottiglia",
+    "title": "Bottiglia di vetro",
+    "aliases": ["bottiglia vetro", "bottiglia di vetro", "bottiglie vetro", "fiasco", "bottiglia vino", "bottiglia birra", "bottiglia liquore"],
+    "material_id": "vetro"
+  },
+  {
+    "id": "vetro-vasetto",
+    "title": "Vasetto di vetro",
+    "aliases": ["vasetto vetro", "vasetti vetro", "barattolo vetro", "barattoli vetro", "vasetto marmellata", "vasetto sugo", "vasetto yogurt vetro"],
+    "material_id": "vetro"
+  },
+  {
+    "id": "vetro-bottiglia-olio",
+    "title": "Bottiglia di vetro olio",
+    "aliases": ["bottiglia olio vetro", "olio vetro", "bottiglia vetro olio"],
+    "material_id": "vetro",
+    "note": "Sciacqua bene prima di buttarla."
+  },
+  {
+    "id": "vetro-bicchiere",
+    "title": "Bicchiere di vetro",
+    "aliases": ["bicchiere vetro", "bicchieri vetro", "calice", "calici", "bicchiere di vetro"],
+    "material_id": "vetro"
+  },
+  {
+    "id": "vetro-caraffa",
+    "title": "Caraffa di vetro",
+    "aliases": ["caraffa", "caraffa vetro", "brocca vetro"],
+    "material_id": "vetro"
+  },
+  {
+    "id": "vetro-specchio",
+    "title": "Specchio (piccolo)",
+    "aliases": ["specchio", "specio", "specchietto", "specchi piccoli"],
+    "material_id": "vetro",
+    "note": "Gli specchi non vanno nel vetro perchè hanno una pellicola riflettente. Portali al centro di raccolta."
+  },
+  {
+    "id": "vetro-finestra",
+    "title": "Vetri da finestra",
+    "aliases": ["vetro finestra", "vetri", "lastra vetro", "cristallo", "vetro piano"],
+    "material_id": "vetro",
+    "note": "Il vetro piano (finestre) non va nel contenitore del vetro. Portalo all'isola ecologica."
+  },
+  {
+    "id": "vetro-cristallo",
+    "title": "Cristallo (bicchieri, oggetti)",
+    "aliases": ["cristallo", "bicchiere cristallo", "calice cristallo", "oggetti cristallo"],
+    "material_id": "vetro",
+    "note": "Il cristallo ha una composizione diversa dal vetro. Non va nel contenitore del vetro ma nel secco."
+  },
+  {
+    "id": "plastica-bottiglia",
+    "title": "Bottiglia di plastica",
+    "aliases": ["bottiglia plastica", "bottiglie plastica", "flacone plastica", "bottiglia acqua", "bottiglia soda", "bottiglia succo"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-flacone",
+    "title": "Flacone shampoo / detersivo",
+    "aliases": ["flacone shampoo", "flacone detersivo", "detersivo", "shampoo", "bagnoschiuma", "flacone ammorbidente", "flacone candeggina", "detergente"],
+    "material_id": "plastica",
+    "note": "Assicurati di aver svuotato e strizzato bene il flacone."
+  },
+  {
+    "id": "plastica-vasetto-yogurt",
+    "title": "Vasetto di yogurt",
+    "aliases": ["vasetto yogurt", "yogurt", "vasetto yogurth", "yogurt plastica", "vaschettina yogurt"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-vaschette",
+    "title": "Vaschette per alimenti in plastica",
+    "aliases": ["vaschetta", "vaschette", "vaschetta plastica", "vaschetta cibo", "vaschetta polistirolo"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-piatti-bicchieri",
+    "title": "Piatti e bicchieri monouso in plastica (puliti)",
+    "aliases": ["piatti plastica", "bicchieri plastica", "piatti usa e getta", "bicchieri usa e getta", "stoviglie monouso"],
+    "material_id": "plastica",
+    "note": "Devono essere puliti, senza residui di cibo."
+  },
+  {
+    "id": "plastica-sacchetti-spesa",
+    "title": "Sacchetti della spesa in plastica (puliti)",
+    "aliases": ["sacchetti spesa", "sacchetto spesa", "busta spesa", "sacchetto plastica pulito"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-retine",
+    "title": "Retine per frutta e verdura",
+    "aliases": ["retine frutta", "retine verdura", "retina", "rete frutta", "retine plastica"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-confezioni",
+    "title": "Confezioni rigide in plastica (blister)",
+    "aliases": ["blister", "confezione plastica", "confezioni rigide", "plastica rigida", "imballaggio plastica"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-polistirolo",
+    "title": "Vaschette in polistirolo",
+    "aliases": ["polistirolo", "vaschetta polistirolo", "polistirolo espanso", "styrofoam"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-pellicola",
+    "title": "Pellicola trasparente",
+    "aliases": ["pellicola", "pellicola trasparente", "pellicola alimentare", "peliocola", "film estensibile"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-tappi-bottiglie",
+    "title": "Tappi di bottiglia in plastica",
+    "aliases": ["tappi plastica", "tappo bottiglia", "tappi bottiglia", "capsula plastica"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-buste-surgelati",
+    "title": "Buste di surgelati (vuote)",
+    "aliases": ["buste surgelati", "sacchetto surgelati", "confezione surgelati"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-contenitori-uova",
+    "title": "Contenitori per uova in plastica trasparente",
+    "aliases": ["contenitore uova", "contenitore uova plastica", "vaschetta uova"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-buste-pasta",
+    "title": "Buste di pasta e riso (vuote)",
+    "aliases": ["busta pasta", "confezione pasta", "busta riso", "pacchetto pasta"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-buste-biscotti",
+    "title": "Buste di biscotti e merendine (vuote)",
+    "aliases": ["busta biscotti", "confezione biscotti", "busta merendine", "pacchetto biscotti", "incarto merendina"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-film-serra",
+    "title": "Film estensibile (non stagnola)",
+    "aliases": ["film estensibile", "peliocola", "film plastica", "carta forno no"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "carta-scatole-cartone",
+    "title": "Scatole di cartone",
+    "aliases": ["scatola cartone", "scatole cartone", "cartone", "scatola", "scatole", "cartone ondulato"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-giornali",
+    "title": "Giornali",
+    "aliases": ["giornale", "giornali", "quotidiani", "quotidiano", "rivista", "riviste"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-fogli",
+    "title": "Fogli di carta",
+    "aliases": ["fogli", "foglio", "fogli carta", "carta", "fogli A4", "fogli quaderno", "carta stampante"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-quaderni",
+    "title": "Quaderni",
+    "aliases": ["quaderno", "quaderni", "blocco note", "agenda", "diario"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-libri",
+    "title": "Libri",
+    "aliases": ["libro", "libri", "romanzo", "testo scolastico", "enciclopedia"],
+    "material_id": "carta",
+    "note": "Rimuovi eventuali copertine in plastica. Se il libro è in buono stato, considera di donarlo."
+  },
+  {
+    "id": "carta-tetra-pak",
+    "title": "Tetra Pak (confezioni latte, succhi)",
+    "aliases": ["tetra pak", "tetrapak", "confezioni latte", "confezione succo", "cartone latte", "brik", "cartone succo"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-cartone-pizza-pulito",
+    "title": "Cartone pizza pulito",
+    "aliases": ["cartone pizza pulito", "scatola pizza pulita", "cartone pizza"],
+    "material_id": "carta",
+    "note": "Se non è unto. Se è unto, va nell'organico."
+  },
+  {
+    "id": "carta-depliant",
+    "title": "Depliant e volantini",
+    "aliases": ["depliant", "volantino", "volantini", "pieghevole", "opuscolo"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-scatole-scarpe",
+    "title": "Scatole di scarpe",
+    "aliases": ["scatola scarpe", "scatole scarpe", "confezioni scarpe"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-buste-lettere",
+    "title": "Buste per lettere (carta)",
+    "aliases": ["buste", "busta", "busta lettera", "buste postali", "busta carta"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-post-it",
+    "title": "Post-it usati",
+    "aliases": ["post it", "post-it", "foglietti adesivi", "notes"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-tubi-cartoncin",
+    "title": "Tubi di cartone (carta igienica, scotch)",
+    "aliases": ["tubo cartone", "tubi cartone", "rotolo carta igienica", "tubo carta igienica", "anima carta igienica", "rotolo scotch"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-giornali-pubblicità",
+    "title": "Pubblicità e volantini pubblicitari",
+    "aliases": ["pubblicità", "volantini pubblicitari", "reclam", "inserzioni", "flyer"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-confezioni-pasta-cartone",
+    "title": "Confezioni in cartone per pasta e riso",
+    "aliases": ["confezione pasta cartone", "pacchetto pasta cartone", "confezione riso cartone", "scatola pasta", "scatola riso"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-scontrini-carta",
+    "title": "Scontrini in carta (se non termici)",
+    "aliases": ["scontrino carta", "scontrini normali"],
+    "material_id": "carta",
+    "note": "La maggior parte degli scontrini moderni sono in carta termica e vanno nel secco. Solo gli scontrini tradizionali vanno nella carta."
+  },
+  {
+    "id": "carta-calendari",
+    "title": "Calendari di carta",
+    "aliases": ["calendario", "calendari", "agenda pagine", "calendario da muro"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-cartoline",
+    "title": "Cartoline",
+    "aliases": ["cartolina", "cartoline", "cartolina postale"],
+    "material_id": "carta"
+  },
+  {
+    "id": "metallo-lattina",
+    "title": "Lattina",
+    "aliases": ["lattina", "lattine", "lattina alluminio", "lattina bibita", "lattina coca cola", "lattina birra", "lattina soda"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "metallo-barattolo",
+    "title": "Barattolo metallico (pelati, pomodoro)",
+    "aliases": ["barattolo metallo", "barattolo pelati", "barattolo pomodoro", "scatoletta tonno", "scatoletta legumi", "scatoletta carne"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "metallo-tappi-corona",
+    "title": "Tappi a corona",
+    "aliases": ["tappi corona", "tappo corona", "tappi birra", "tappo birra", "capsula metallo"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "metallo-coperchi",
+    "title": "Coperchi metallici",
+    "aliases": ["coperchi metallo", "coperchio metallo", "coperchi barattoli", "tappi metallici"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "metallo-alluminio",
+    "title": "Fogli di alluminio (puliti)",
+    "aliases": ["alluminio", "carta stagnola", "foglio alluminio", "fogli stagnola", "alluminio pulito", "piatto alluminio"],
+    "material_id": "metallo",
+    "note": "Se è sporco di cibo, va nel secco."
+  },
+  {
+    "id": "metallo-vaschette-alluminio",
+    "title": "Vaschette di alluminio",
+    "aliases": ["vaschetta alluminio", "vaschette alluminio", "teglia alluminio", "contenitore alluminio"],
+    "material_id": "metallo",
+    "note": "Puliscile da eventuali residui di cibo prima di buttarle."
+  },
+  {
+    "id": "metallo-bombolette",
+    "title": "Bombolette spray vuote (non pericolose)",
+    "aliases": ["bombolette", "bombolletta", "bombolletta spray", "spray", "bombolletta deodorante", "bombolletta panna"],
+    "material_id": "metallo",
+    "note": "Verifica che siano completamente vuote. Alcuni comuni le accettano nel metallo, altri le vogliono nel secco o in raccolte specifiche."
+  },
+  {
+    "id": "metallo-tubi-metallici",
+    "title": "Tubi di gomma o metallici",
+    "aliases": ["tubi metallo", "tubo metallico", "profilo alluminio", "canale metallo"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "metallo-custodie-cd",
+    "title": "Custodie metalliche CD/DVD",
+    "aliases": ["custodia metallo", "custodie cd metallo"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "secco-giocattoli-peluche",
+    "title": "Peluche e pupazzi di stoffa",
+    "aliases": ["peluche", "pupazzo", "pupazzi", "orsacchiotto", "peluche rotto"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-palline-tennis",
+    "title": "Palline da tennis",
+    "aliases": ["pallina tennis", "palline tennis", "palle tennis"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-palline-golf",
+    "title": "Palline da golf",
+    "aliases": ["pallina golf", "palline golf", "palle golf"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-palloncini",
+    "title": "Palloncini di gomma e festoni",
+    "aliases": ["palloncini", "palloncino", "festoni", "palloncini gomma", "palloncino scoppiato"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-cavi-ricarica",
+    "title": "Cavi di ricarica e auricolari",
+    "aliases": ["cavo ricarica", "cavo usb", "auricolari", "cuffiette", "caricatore telefono", "caricabatterie rotto"],
+    "material_id": "secco",
+    "note": "Appartengono ai RAEE. Conferisci all'isola ecologica."
+  },
+  {
+    "id": "secco-telecomando",
+    "title": "Telecomando rotto",
+    "aliases": ["telecomando", "telecomando rotto", "telecomando tv", "telecomando condizionatore"],
+    "material_id": "secco",
+    "note": "Rimuovi le pile e gettale negli appositi contenitori."
+  },
+  {
+    "id": "secco-sveglia",
+    "title": "Sveglia rotto",
+    "aliases": ["sveglia", "sveglia rotta", "orologio sveglia", "sveglia digitale"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-bilancia",
+    "title": "Bilancia da cucina rotta",
+    "aliases": ["bilancia", "bilancia cucina", "bilancia rotta", "pesapersone"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-calcagno",
+    "title": "Suola di scarpe e tacchi",
+    "aliases": ["suola scarpe", "tacco", "tacchi", "scarpa vecchia", "scarpe rotte"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-lacci",
+    "title": "Lacci di scarpe",
+    "aliases": ["lacci", "laccio", "lacci scarpe", "stringhe"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-cappelli",
+    "title": "Cappelli e berretti vecchi",
+    "aliases": ["cappello", "cappelli", "berretto", "berretti", "cappello vecchio"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-cravatte",
+    "title": "Cravatte vecchie",
+    "aliases": ["cravatta", "cravatte", "papillon", "cravatta vecchia"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-guantiera",
+    "title": "Guanti da lavoro in tessuto",
+    "aliases": ["guanti lavoro", "guanti da lavoro", "guanti tessuto"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-cassetta-attrezzi",
+    "title": "Cassetta degli attrezzi in plastica",
+    "aliases": ["cassetta attrezzi", "cassetta utensili", "cassettina attrezzi"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-segatura",
+    "title": "Segatura e trucioli di legno",
+    "aliases": ["segatura", "trucioli", "truciolo", "legno segatura", "polvere legno"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-cartavetro",
+    "title": "Carta vetro",
+    "aliases": ["carta vetro", "carta abrasiva", "carta smeriglio", "carta vetrata"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-nastro-americano",
+    "title": "Nastro americano (duct tape)",
+    "aliases": ["nastro americano", "duct tape", "nastro telato", "nastro adesivo resistente"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-spugna-piante",
+    "title": "Spugna per piante (nuova)",
+    "aliases": ["spugna piante", "spugna floreale", "spugna fiori"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-bastoncini-ovatta",
+    "title": "Bastoncini cotone igienico",
+    "aliases": ["bastoncino cotone", "cotone igienico", "scovolino"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-filo-dentale",
+    "title": "Filo interdentale",
+    "aliases": ["filo interdentale", "filo dentale", "scovolino interdentale"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-lamette-barba",
+    "title": "Lametta per barba usa e getta",
+    "aliases": ["lametta", "lamette barba", "rasoio barba", "lama rasoio"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-fon",
+    "title": "Asciugacapelli rotto",
+    "aliases": ["fon", "asciugacapelli", "phon", "fon rotto", "asciugacapelli rotto"],
+    "material_id": "secco",
+    "note": "RAEE — portalo all'isola ecologica."
+  },
+  {
+    "id": "secco-lampada",
+    "title": "Lampada da tavolo rotto",
+    "aliases": ["lampada", "lampada rotto", "lampada tavolo", "lume"],
+    "material_id": "secco",
+    "note": "RAEE — portalo all'isola ecologica."
+  },
+  {
+    "id": "secco-ferro-stiro",
+    "title": "Ferro da stiro rotto",
+    "aliases": ["ferro stiro", "ferro da stiro", "ferro stiro rotto", "piastra stiro"],
+    "material_id": "secco",
+    "note": "RAEE — portalo all'isola ecologica."
+  },
+  {
+    "id": "secco-tostapane",
+    "title": "Tostapane rotto",
+    "aliases": ["tostapane", "tostapane rotto", "grattapane"],
+    "material_id": "secco",
+    "note": "RAEE — portalo all'isola ecologica."
+  },
+  {
+    "id": "secco-aspirapolvere",
+    "title": "Aspirapolvere rotto",
+    "aliases": ["aspirapolvere", "aspirapolvere rotto", "aspiratore"],
+    "material_id": "secco",
+    "note": "RAEE — portalo all'isola ecologica."
+  },
+  {
+    "id": "secco-forno-microonde",
+    "title": "Forno a microonde rotto",
+    "aliases": ["microonde", "forno microonde", "microonde rotto"],
+    "material_id": "secco",
+    "note": "RAEE — ingombrante. Portalo all'isola ecologica."
+  },
+  {
+    "id": "secco-caffe elettrico",
+    "title": "Macchinetta del caffè elettrica rotta",
+    "aliases": ["macchinetta caffe", "caffettiera", "caffettiera elettrica", "moka elettrica", "macchina caffe"],
+    "material_id": "secco",
+    "note": "RAEE — portala all'isola ecologica."
+  },
+  {
+    "id": "secco-bollitore",
+    "title": "Bollitore elettrico rotto",
+    "aliases": ["bollitore", "bollitore elettrico", "bollitore rotto", "kettle"],
+    "material_id": "secco",
+    "note": "RAEE — portalo all'isola ecologica."
+  },
+  {
+    "id": "organico-frutta-secca",
+    "title": "Gusci di frutta secca",
+    "aliases": ["gusci noci", "noci", "mandorle", "nocciole", "pistacchi", "arachidi", "pinoli", "anacardi"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-frutta",
+    "title": "Frutta scaduta",
+    "aliases": ["frutta", "mele marcie", "banane marcie", "arance marcie", "pere marcie"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-verdura",
+    "title": "Verdure scadute",
+    "aliases": ["verdura", "insalata", "pomodori", "zucchine", "melanzane", "carote", "patate marcie", "cipolle"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-erbette",
+    "title": "Erbe aromatiche appassite",
+    "aliases": ["erbe aromatiche", "basilico", "prezzemolo", "rosmarino", "salvia", "menta", "timo", "origano"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-legumi",
+    "title": "Legumi (fagioli, lenticchie, ceci) scaduti",
+    "aliases": ["legumi", "fagioli", "lenticchie", "ceci", "piselli", "fave"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-cereali",
+    "title": "Cereali scaduti",
+    "aliases": ["cereali", "riso", "pasta", "farro", "orzo", "avena", "muesli", "cornflakes"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-semi",
+    "title": "Semi vari",
+    "aliases": ["semi", "semi girasole", "semi zucca", "semi lino", "semi chia", "semi sesamo"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-frutti-bosco",
+    "title": "Frutti di bosco scaduti",
+    "aliases": ["frutti bosco", "fragole", "mirtilli", "lamponi", "more", "ribes"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-aglio",
+    "title": "Aglio e cipolle",
+    "aliases": ["aglio", "cipolla", "cipolle", "cipollotti", "scalogno"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-avocado",
+    "title": "Avocado (polpa e nocciolo)",
+    "aliases": ["avocado", "nocciolo avocado", "buccia avocado"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-cocco",
+    "title": "Noce di cocco (guscio)",
+    "aliases": ["cocco", "noce cocco", "guscio cocco"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-polpa-succo",
+    "title": "Polpa di frutta dai succhi",
+    "aliases": ["polpa frutta", "residui spremuta", "polpa succo", "scarti spremiagrumi"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-caffe-moka",
+    "title": "Fondi di caffè moka",
+    "aliases": ["caffe moka", "caffe espresso fondi", "polvere caffe", "caffe esausto"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-tisane",
+    "title": "Tisane e infusi (filtri esausti)",
+    "aliases": ["tisana", "infuso", "camomilla", "tè", "tisana filtro", "filtro tisana"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-bustine-zucchero",
+    "title": "Bustine di zucchero usate (carta)",
+    "aliases": ["bustine zucchero", "carte zucchero", "zucchero"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-tovaglioli-tè",
+    "title": "Tovaglioli di carta usati (pasti)",
+    "aliases": ["tovagliolo", "tovaglioli pasto", "salvietta carta"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-stecchi",
+    "title": "Stecchi di legno (spiedini)",
+    "aliases": ["stecchi", "spiedini", "stecchino legno", "stecco", "spiedino legno"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-bacchette-cinesi",
+    "title": "Bacchette cinesi di legno",
+    "aliases": ["bacchette cinesi", "bacchette legno", "bastoncini cinesi"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-fazzoletti-kleenex",
+    "title": "Fazzolettini di carta usati",
+    "aliases": ["fazzolettino", "fazzoletto carta", "kleenex usato"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-carta-forno",
+    "title": "Carta da forno unta",
+    "aliases": ["carta forno", "carta forno sporca", "carta da forno unta"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-filtri-caffe",
+    "title": "Filtri di carta per caffè",
+    "aliases": ["filtro caffe carta", "filtro caffe", "filtri caffe americano", "caffe filtro carta"],
+    "material_id": "organico"
+  },
+  {
+    "id": "secco-sacchetti-sottovuoto",
+    "title": "Sacchetti per sottovuoto",
+    "aliases": ["sacchetto sottovuoto", "sacchetti sottovuoto", "confezioni sottovuoto"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-bussole",
+    "title": "Bussole e rottami misti",
+    "aliases": ["bussola", "ferramenta", "viti", "chiodi", "bulloni", "dadi", "rondelle"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-molla",
+    "title": "Molle e piccole parti metalliche",
+    "aliases": ["molla", "molle", "ferro", "metallo misto", "parti metalliche"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-bruciatore",
+    "title": "Accendini usa e getta",
+    "aliases": ["accendino", "accendini", "accendino usa e getta", "accendino rotto"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-fornelli",
+    "title": "Fornellino da campeggio esausto",
+    "aliases": ["fornellino", "campeggio", "fornellino gas", "cartuccia gas piccola"],
+    "material_id": "secco",
+    "note": "Assicurati che sia completamente vuoto."
+  },
+  {
+    "id": "secco-mascherine-vecchie",
+    "title": "Mascherine FFP2 e chirurgiche",
+    "aliases": ["mascherina ffp2", "mascherina chirurgica", "mascherina vecchia", "mascherina sporca"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-guanti-medici",
+    "title": "Guanti medici usa e getta",
+    "aliases": ["guanti medici", "guanti sanitari", "guanti ospedali", "guanti esame"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-catetere",
+    "title": "Catetere e presidi medici",
+    "aliases": ["catetere", "siringa", "presidi medici", "dispositivi medici"],
+    "material_id": "secco",
+    "note": "I taglienti (aghi, siringhe) vanno in contenitori appositi. Conferisci in farmacia."
+  },
+  {
+    "id": "secco-contenitori-farmaci",
+    "title": "Blister di farmaci vuoti",
+    "aliases": ["blister farmaci", "confezioni farmaci", "pastigliera", "pillole blister"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-tubo-collirio",
+    "title": "Tubi di collirio e pomate vuoti",
+    "aliases": ["tubo collirio", "pomata", "crema medica", "tubetto pomata"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-cerotti-medicazione",
+    "title": "Cerotti medicati e garze sporche",
+    "aliases": ["cerotto medicato", "garza", "garze", "benda", "bende", "medicazione"],
+    "material_id": "secco"
+  },
+  {
+    "id": "organico-animali domestici",
+    "title": "Cibo per animali scaduto",
+    "aliases": ["cibo animali", "cibo cane", "cibo gatto", "crocchette", "cibo umido cane", "scatolette animali"],
+    "material_id": "organico"
+  },
+  {
+    "id": "secco-escrementi-cani",
+    "title": "Sacchetti per deiezioni canine (pieni)",
+    "aliases": ["deiezioni cane", "cacca cane", "sacchetto cane", "bisogni cane", "merda cane"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-sabbia-gatti",
+    "title": "Lettiera per gatti usata",
+    "aliases": ["sabbia gatti", "pipì gatto", "lettiera", "sabbietta gatti", "bisogni gatto"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-peluche-cani",
+    "title": "Giochi per animali rotti",
+    "aliases": ["giochi animali", "giochi cane", "giochi gatto", "pallina cane", "osso cane"],
+    "material_id": "secco"
+  },
+  {
+    "id": "organico-cibo-animali",
+    "title": "Cibo per animali scaduto (secco e umido)",
+    "aliases": ["crocchette scadute", "cibo cane scaduto", "cibo gatto scaduto", "scatolette animali scadute"],
+    "material_id": "organico"
+  },
+  {
+    "id": "secco-accessori-auto",
+    "title": "Accessori auto piccoli (guanti, tappetini)",
+    "aliases": ["accessori auto", "tappetini auto", "guanti auto", "copri volante"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-cinture-sicurezza",
+    "title": "Cinture di sicurezza (auto) rovinate",
+    "aliases": ["cinture sicurezza", "cintura auto", "cinture vecchie auto"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-filtri-olio",
+    "title": "Filtri dell'olio auto esausti",
+    "aliases": ["filtro olio", "filtri olio", "filtro auto", "filtri motore"],
+    "material_id": "secco",
+    "note": "Rifiuto pericoloso. Portalo all'isola ecologica o dal gommista."
+  },
+  {
+    "id": "secco-batteria-auto",
+    "title": "Batteria auto esausta",
+    "aliases": ["batteria auto", "batteria macchina", "accumulatore auto"],
+    "material_id": "secco",
+    "note": "Rifiuto pericoloso. Portala dal rivenditore o all'isola ecologica."
+  },
+  {
+    "id": "secco-liquido-antigelo",
+    "title": "Liquido antigelo usato",
+    "aliases": ["antigelo", "liquido antigelo", "refrigerante auto"],
+    "material_id": "secco",
+    "note": "Rifiuto pericoloso. Portalo all'isola ecologica."
+  },
+  {
+    "id": "secco-olio-motore",
+    "title": "Olio motore esausto",
+    "aliases": ["olio motore", "olio auto", "olio cambio", "olio freni"],
+    "material_id": "secco",
+    "note": "Rifiuto pericoloso. Portalo all'isola ecologica o dal gommista."
+  },
+  {
+    "id": "secco-carta-igienica-sporca",
+    "title": "Carta igienica sporca (non nell'organico per alcuni comuni)",
+    "aliases": ["carta igienica sporca", "carta igenica", "carta igienica usata", "rotolo carta igienica sporca"],
+    "material_id": "secco",
+    "note": "In molti comuni la carta igienica sporca va nel secco residuale, non nell'organico. Verifica le regole del tuo comune."
+  },
+  {
+    "id": "secco-salviette-umidificate",
+    "title": "Salviette umidificate",
+    "aliases": ["salviette umidificate", "salviette", "salviette detergenti", "salviette struccanti", "salviette neonato"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-fazzoletti-umidi",
+    "title": "Fazzoletti umidi",
+    "aliases": ["fazzoletti umidi", "fazzolettini umidi"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-preservativi",
+    "title": "Preservativi usati",
+    "aliases": ["preservativo", "preservativi", "condom", "profilattico"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-pannoloni-adulti",
+    "title": "Pannoloni per adulti",
+    "aliases": ["pannolone adulti", "pannoloni", "mutande assorbenti", "salviette per incontinenza"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-traverse",
+    "title": "Traverse assorbenti (lettino)",
+    "aliases": ["traversa assorbente", "traverse", "salvaletto"],
+    "material_id": "secco"
+  },
+  {
+    "id": "plastica-sacchetto-insalata",
+    "title": "Sacchetto per insalata (lavato)",
+    "aliases": ["sacchetto insalata", "busta insalata", "confezione insalata"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-contenitore-uova",
+    "title": "Contenitore per uova in plastica",
+    "aliases": ["contenitore uova plastica", "porta uova", "confezione uova plastica"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-bottiglia-latte",
+    "title": "Bottiglia di plastica per latte",
+    "aliases": ["bottiglia latte", "bottiglia plastica latte"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-contenitore-detersivo",
+    "title": "Contenitore detersivo liquido",
+    "aliases": ["detersivo liquido", "flacone detersivo", "contenitore ammorbidente", "flan ammorbidente"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-flacone-bagnoschiuma",
+    "title": "Flacone bagnoschiuma/doccia",
+    "aliases": ["bagnoschiuma", "flacone doccia", "gel doccia", "bagnoschiuma vuoto"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-flacone-crema",
+    "title": "Flacone crema corpo/lavaggio mani",
+    "aliases": ["flacone crema", "crema corpo", "detersione mani", "flacone sapone mani"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-tubetto-toothpaste",
+    "title": "Tubetto dentifricio (in plastica)",
+    "aliases": ["dentifricio", "tubetto dentifricio", "pasta denti"],
+    "material_id": "plastica",
+    "note": "Strizzalo bene prima di buttarlo. Alcuni comuni lo accettano nella plastica, altri nel secco."
+  },
+  {
+    "id": "plastica-contenitore-antizanzare",
+    "title": "Contenitore antizanzare (elettrico)",
+    "aliases": ["antizanzare", "piastrine antizanzare", "confezione piastrine zanzare"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-bottiglia-surgelato",
+    "title": "Bottiglia di plastica per succhi",
+    "aliases": ["bottiglia succo", "succo di frutta", "bottiglia plastica succo"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "carta-confezioni-surgelati",
+    "title": "Confezioni di cartone per surgelati",
+    "aliases": ["confezione surgelati cartone", "scatola surgelati", "cartone surgelati"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-scatole-giochi",
+    "title": "Scatole di giochi in cartone",
+    "aliases": ["scatola gioco", "scatola giochi", "cartone gioco", "confezione giocattolo"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-scatole-elettronica",
+    "title": "Scatole di elettronica (tv, pc, cellulari)",
+    "aliases": ["scatola smartphone", "scatola telefono", "confezione elettronica", "cartone elettronica"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-magazine",
+    "title": "Riviste e magazine",
+    "aliases": ["rivista", "magazine", "periodico", "settimanale", "mensile"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-fumetti",
+    "title": "Fumetti",
+    "aliases": ["fumetto", "fumetti", "graphic novel", "manga"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-poster",
+    "title": "Poster e manifesti",
+    "aliases": ["poster", "manifesto", "locandina", "cartellone"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-fotocopie",
+    "title": "Fotocopie e stampe",
+    "aliases": ["fotocopia", "stampa", "xerox", "copia"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-biglietti-auguri",
+    "title": "Biglietti d'auguri",
+    "aliases": ["biglietto auguri", "biglietti auguri", "cartolina auguri", "busta auguri"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-tagliandi",
+    "title": "Tagliandi e scontrini (carta tradizionale)",
+    "aliases": ["tagliando", "scontrino carta tradizionale", "biglietto lotteria"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-confetti",
+    "title": "Coriandoli di carta",
+    "aliases": ["coriandoli", "coriandolo", "stelle filanti carta", "serpentini"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-coni gelato",
+    "title": "Coni gelato in cartone",
+    "aliases": ["cono gelato cartone", "confezione coni", "scatola coni gelato"],
+    "material_id": "carta"
+  },
+  {
+    "id": "metallo-cappucci-metallo",
+    "title": "Cappucci di bottiglia in metallo",
+    "aliases": ["cappuccio bottiglia", "tappo metallo birra", "tappo metallico", "capsula metallica"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "metallo-fogli-alluminio",
+    "title": "Fogli d'alluminio",
+    "aliases": ["foglio alluminio", "carta stagnola", "alluminio cucina", "foglio stagnola"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "metallo-piatti-alluminio",
+    "title": "Piatti in alluminio usa e getta",
+    "aliases": ["piatto alluminio", "piatti alluminio", "vassoio alluminio"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "metallo-tubi-pasta",
+    "title": "Tubi di alluminio o metallo",
+    "aliases": ["tubo alluminio", "profilo alluminio"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "metallo-capsule-caffe",
+    "title": "Capsule di caffè in alluminio (Nespresso compatibili)",
+    "aliases": ["capsule caffe", "nespresso", "capsula alluminio", "capsula caffe alluminio", "bicchiere caffe"],
+    "material_id": "metallo",
+    "note": "Svuota la capsula dal caffè esausto. La capsula va nel metallo, il caffè nell'organico."
+  },
+  {
+    "id": "metallo-bombolette-spray",
+    "title": "Bombolette spray vuote (deodoranti, lacche, vernici)",
+    "aliases": ["bombolletta spray", "spray", "aerosol", "bombolletta deodorante", "deodorante spray"],
+    "material_id": "metallo",
+    "note": "Devono essere completamente vuote. Non forare né schiacciare."
+  },
+  {
+    "id": "metallo-tubi-dentifricio-metallo",
+    "title": "Tubi in metallo (tipo acquerelli)",
+    "aliases": ["tubo metallo vernice", "colori a olio", "tubo acquerelli"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "metallo-chiavi-inglesi",
+    "title": "Attrezzi metallici rotti (cacciaviti, chiavi)",
+    "aliases": ["cacciavite", "chiave inglese", "martello", "pinze", "attrezzi rotti", "utensili metallo"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "metallo-catene-metal",
+    "title": "Catenelle, anelli, monili metallici",
+    "aliases": ["catene", "catenina", "anello", "monile", "bigiotteria", "gioielli falsi"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "carta-fazzoletti-carta",
+    "title": "Fazzoletti di carta puliti",
+    "aliases": ["fazzoletti puliti", "fazzoletto pulito"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-filtri-caffe",
+    "title": "Filtri di carta per caffè (non usati)",
+    "aliases": ["filtri caffe puliti", "filtro caffe carta nuovo"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-piatti-carta",
+    "title": "Piatti di carta usa e getta (puliti)",
+    "aliases": ["piatto carta", "piatti carta", "stoviglie carta"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-bicchieri-carta",
+    "title": "Bicchieri di carta",
+    "aliases": ["bicchiere carta", "bicchieri carta"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-tovaglioli-carta-puliti",
+    "title": "Tovaglioli di carta puliti",
+    "aliases": ["tovaglioli puliti", "tovagliolo carta nuovo"],
+    "material_id": "carta"
+  },
+  {
+    "id": "secco-macchie-olio",
+    "title": "Carta assorbente unta di olio (motore)",
+    "aliases": ["carta olio motore", "panno olio", "carta unta olio"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-carta-parafinata",
+    "title": "Carta paraffinata oleata",
+    "aliases": ["carta oleata", "carta parafinata", "carta panetteria"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-carta-pesante",
+    "title": "Carta con adesivi e etichette",
+    "aliases": ["carta adesiva", "etichette", "adesivi", "carta etichette"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-carta-alluminio-sporca",
+    "title": "Carta alluminio sporca di cibo",
+    "aliases": ["carta alluminio sporca", "stagnola sporca", "foglio alluminio unto"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-piatti-carta-sporchi",
+    "title": "Piatti di carta sporchi di cibo",
+    "aliases": ["piatto carta sporco", "piatti carta sporchi"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-bicchieri-carta-sporchi",
+    "title": "Bicchieri di carta sporchi",
+    "aliases": ["bicchiere carta sporco"],
+    "material_id": "secco"
+  },
+  {
+    "id": "organico-sacchetti-compost",
+    "title": "Sacchetti compostabili (Mater-Bi)",
+    "aliases": ["sacchetto compostabile", "mater bi", "sacchetto biodegradabile", "bioplastica compostabile", "sacchetto organico"],
+    "material_id": "organico",
+    "note": "Devono essere certificati compostabili (simbolo). Usali per raccogliere l'umido."
+  },
+  {
+    "id": "organico-buste-organico",
+    "title": "Buste in carta per farina e zucchero",
+    "aliases": ["busta farina", "busta zucchero", "sacchetto carta farina"],
+    "material_id": "organico",
+    "note": "Se le buste non hanno parti in plastica e sono naturali, possono andare nell'organico."
+  },
+  {
+    "id": "organico-filtri-cotone",
+    "title": "Filtri di cotone per caffè",
+    "aliases": ["filtro cotone caffe", "filtro stoffa caffe", "cotone filtro"],
+    "material_id": "organico"
+  },
+  {
+    "id": "plastica-bottiglia-acqua",
+    "title": "Bottiglia acqua minerale",
+    "aliases": ["bottiglia acqua", "acqua minerale", "bottiglina acqua", "plastica acqua"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-bottiglia-bibita",
+    "title": "Bottiglia bibita gassata",
+    "aliases": ["bottiglia bibita", "coca cola plastica", "sprite", "aranciata", "gassosa plastica"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-contenitore-vitamine",
+    "title": "Contenitore integratori e vitamine",
+    "aliases": ["barattolo integratori", "confezione vitamine", "flacone integratori"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-barattolo-detersivo",
+    "title": "Barattolo detersivo in polvere",
+    "aliases": ["detersivo polvere", "barattolo detersivo", "contenitore detersivo"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-seggiolino-bambino",
+    "title": "Seggiolone o seggiolino plastica per bambini",
+    "aliases": ["seggiolino", "seggiolone", "seggiola plastica", "seggiolino bambina"],
+    "material_id": "plastica",
+    "note": "Se è di grandi dimensioni, portalo all'isola ecologica come rifiuto ingombrante."
+  },
+  {
+    "id": "vetro-frutta-sciroppo",
+    "title": "Vasetto di vetro per frutta sciroppata",
+    "aliases": ["vasetto frutta sciroppata", "bicchiere vetro frutta"],
+    "material_id": "vetro"
+  },
+  {
+    "id": "vetro-brocca",
+    "title": "Brocca o caraffa in vetro",
+    "aliases": ["brocca vetro", "caraffa vetro"],
+    "material_id": "vetro"
+  },
+  {
+    "id": "vetro-vaso",
+    "title": "Vaso in vetro (decorativo)",
+    "aliases": ["vaso vetro", "vasetti vetro", "barattolo vetro decorativo"],
+    "material_id": "vetro"
+  },
+  {
+    "id": "vetro-bicchiere-vino",
+    "title": "Bicchiere da vino in vetro",
+    "aliases": ["bicchiere vino", "calice vino", "bicchiere vetro vino"],
+    "material_id": "vetro"
+  },
+  {
+    "id": "vetro-coperchio-vetro",
+    "title": "Coperchio in vetro (da pentole)",
+    "aliases": ["coperchio vetro", "coperchio pentola vetro"],
+    "material_id": "vetro"
+  },
+  {
+    "id": "vetro-ciotola-vetro",
+    "title": "Ciotola in vetro",
+    "aliases": ["ciotola vetro", "insalatiera vetro", "ciotolina vetro"],
+    "material_id": "vetro"
+  },
+  {
+    "id": "vetro-specchiera",
+    "title": "Specchio o specchietto (se non ha pellicola)",
+    "aliases": ["specchio vetro", "specchietto vetro"],
+    "material_id": "vetro",
+    "note": "Se è un vecchio specchio senza pellicola, può andare nel vetro. Altrimenti nel secco."
+  },
+  {
+    "id": "plastica-bottiglia-condizionatore",
+    "title": "Flacone di balsamo/crema per capelli",
+    "aliases": ["balsamo capelli", "crema capelli", "conditioner", "flacone balsamo"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-vaschetta-gelato",
+    "title": "Vaschetta di gelato in plastica",
+    "aliases": ["vaschetta gelato", "contenitore gelato", "vaschetta gelato plastica"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-confezione-merendine",
+    "title": "Confezioni di merendine e snack (plastica)",
+    "aliases": ["confezione merendina", "bustina snack", "pacchetto patatine", "sacchetto patatine", "merendina"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-retina-aglio",
+    "title": "Retina per aglio o cipolle",
+    "aliases": ["rete aglio", "retina cipolle", "sacchetto rete verdura"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-vassoio-plastica",
+    "title": "Vassoio e leccarda in plastica",
+    "aliases": ["vassoio plastica", "leccarda plastica", "vassoio forno plastica"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-grissini-confezione",
+    "title": "Confezioni di grissini, crackers, pane carasau",
+    "aliases": ["confezione grissini", "pacchetto crackers", "busta pane carasau"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-biscotti-confezioni",
+    "title": "Confezioni di biscotti (parte plastica interna)",
+    "aliases": ["biscotti confezione", "sacchetto biscotti", "busta biscotti plastica"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-caffe-confezioni",
+    "title": "Confezioni di caffè in grani/macinato",
+    "aliases": ["confezione caffe", "busta caffe", "pacchetto caffe", "caffe in grani"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "carta-scatola-pizza",
+    "title": "Scatola per pizza in cartone (pulita)",
+    "aliases": ["scatola pizza pulita", "cartone pizza", "confezione pizza"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-scatola-torta",
+    "title": "Scatola per torta in cartone",
+    "aliases": ["scatola torta", "confezione torta", "cartone torta"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-confezione-uova-cartone",
+    "title": "Confezione per uova in cartone",
+    "aliases": ["confezione uova cartone", "portauovo cartone", "vaschetta uova cartone"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-cartone-scarpe",
+    "title": "Cartone scarpe",
+    "aliases": ["cartone scarpe", "scatola scarpe cartone"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-buste-coperte",
+    "title": "Buste per coperte e asciugamani (carta pesante)",
+    "aliases": ["busta carta pesante", "confezione asciugamani cartone"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-pacchi-cartone",
+    "title": "Pacchi da spedizione in cartone",
+    "aliases": ["pacco cartone", "pacco postale", "scatola spedizioni"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-confezioni-bomboniere",
+    "title": "Confezioni bomboniere e confetti",
+    "aliases": ["bomboniera", "confezione bomboniera", "scatola confetti"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta- scatole-cornflakes",
+    "title": "Scatole di cereali (parte cartone)",
+    "aliases": ["scatola cereali", "confezione cornflakes", "scatola muesli"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-confezione-farmaci",
+    "title": "Confezione farmaci in cartone esterno",
+    "aliases": ["confezione farmaco", "scatola farmaco", "cartone medicinali", "scatoletta farmaco"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-libri-vecchi",
+    "title": "Libri vecchi e enciclopedie",
+    "aliases": ["libri vecchi", "enciclopedia", "romanzo", "libro tascabile"],
+    "material_id": "carta"
+  },
+  {
+    "id": "metallo-barattolo-verdure",
+    "title": "Barattolo di metallo per verdure in scatola",
+    "aliases": ["barattolo piselli", "scatoletta fagioli", "lattina mais", "lattina pomodori pelati"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "metallo-lattina-tonno",
+    "title": "Scatoletta di tonno o pesce",
+    "aliases": ["scatoletta tonno", "lattina tonno", "confezione tonno", "scatola tonno"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "metallo-lattina-sardine",
+    "title": "Lattina di sardine e acciughe",
+    "aliases": ["scatoletta sardine", "lattina sardine", "acciughe scatola"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "metallo-bottale-birra",
+    "title": "Fusto piccolo da birra in metallo (tipo Heineken mini)",
+    "aliases": ["fusto birra piccolo", "barilettino birra metallo"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "metallo-tubo-pomodoro",
+    "title": "Tubo concentrato di pomodoro in metallo",
+    "aliases": ["tubo pomodoro metallo", "concentrato pomodoro tubo"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "vetro-birra-bottiglione",
+    "title": "Bottiglione di birra in vetro",
+    "aliases": ["bottiglione birra", "birra vetro", "bottiglia birra vetro"],
+    "material_id": "vetro"
+  },
+  {
+    "id": "vetro-vino-bottiglia",
+    "title": "Bottiglia di vino in vetro",
+    "aliases": ["bottiglia vino", "vino bottiglia", "fiasco vino"],
+    "material_id": "vetro"
+  },
+  {
+    "id": "vetro-liquori",
+    "title": "Bottiglie di liquori e superalcolici",
+    "aliases": ["bottiglia liquore", "bottiglia vodka", "bottiglia whiskey", "bottiglia rum"],
+    "material_id": "vetro"
+  },
+  {
+    "id": "vetro-aceto",
+    "title": "Bottiglia di aceto in vetro",
+    "aliases": ["bottiglia aceto", "aceto vetro"],
+    "material_id": "vetro"
+  },
+  {
+    "id": "vetro-salsa-pomodoro",
+    "title": "Barattolo di salsa di pomodoro in vetro",
+    "aliases": ["barattolo sugo", "salsa pomodoro vetro", "barattolo pomodori pelati vetro", "passata vetro"],
+    "material_id": "vetro"
+  },
+  {
+    "id": "vetro-marmellata",
+    "title": "Barattolo di marmellata in vetro",
+    "aliases": ["barattolo marmellata", "marmellata vetro", "conferttura vetro"],
+    "material_id": "vetro"
+  },
+  {
+    "id": "vetro-miele",
+    "title": "Barattolo di miele in vetro",
+    "aliases": ["barattolo miele", "miele vetro"],
+    "material_id": "vetro"
+  },
+  {
+    "id": "vetro-sottaceti",
+    "title": "Barattolo di sottaceti in vetro",
+    "aliases": ["barattolo sottaceti", "sottaceti vetro", "cipolline vetro", "cetriolini vetro"],
+    "material_id": "vetro"
+  },
+  {
+    "id": "vetro-olive-vetro",
+    "title": "Barattolo di olive in vetro",
+    "aliases": ["barattolo olive vetro", "olive vetro"],
+    "material_id": "vetro"
+  },
+  {
+    "id": "vetro-creme-spalmabili",
+    "title": "Barattolo crema spalmabile (Nutella) in vetro",
+    "aliases": ["barattolo nutella", "nutella vetro", "crema spalmabile vetro"],
+    "material_id": "vetro"
+  },
+  {
+    "id": "vetro- bottiglia-olio-doliva",
+    "title": "Bottiglia olio d'oliva in vetro",
+    "aliases": ["olio oliva vetro", "bottiglia olio", "olio extravergine vetro"],
+    "material_id": "vetro"
+  },
+  {
+    "id": "vetro-bottiglia-acqua-vetro",
+    "title": "Bottiglia d'acqua in vetro",
+    "aliases": ["acqua vetro", "bottiglia vetro acqua", "san benedetto vetro"],
+    "material_id": "vetro"
+  },
+  {
+    "id": "secco-caucciù",
+    "title": "Oggetti in caucciù e gomma",
+    "aliases": ["caucciu", "gomma", "manopole gomma", "pannello gomma"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-piastrelle-ceramica",
+    "title": "Piastrelle e mattonelle in ceramica",
+    "aliases": ["piastrelle ceramica", "mattonelle", "ceramica bagno", "gres", "monocottura"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-vasi-nel-secco",
+    "title": "Vasi in terracotta rotti",
+    "aliases": ["vaso terracotta rotto", "terracotta", "cocci terracotta"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-portachiavi-plastica",
+    "title": "Portachiavi e braccialetti vari",
+    "aliases": ["portachiavi plastica", "bracciale, braccialetti", "porta badge"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-badge",
+    "title": "Badge e tessere magneti",
+    "aliases": ["badge", "tessera magnetica", "tessere magnetiche", "badge lavoro", "tessera elettronica"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-cuffie-audio",
+    "title": "Cuffie e auricolari rotti",
+    "aliases": ["cuffie", "auricolari", "cuffie bluetooth", "cuffiette rotte", "earpods", "airpods"],
+    "material_id": "secco",
+    "note": "RAEE — portali all'isola ecologica."
+  },
+  {
+    "id": "secco-chiavette-usb",
+    "title": "Chiavetta USB rotta",
+    "aliases": ["usb", "chiave usb", "pen drive", "memoria usb", "disco fisso", "hard disk esterno"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-schermo-telefono",
+    "title": "Vetro temperato/schermo telefono rotto",
+    "aliases": ["schermo rotto", "display telefono", "vetro smartphone rotto", "schermo cellulare"],
+    "material_id": "secco",
+    "note": "Se contiene parti tossiche, portalo come RAEE."
+  },
+  {
+    "id": "secco-puntine-mappe",
+    "title": "Puntine e spilli",
+    "aliases": ["puntina", "spillo", "fermo", "puntina mappa"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-graffette",
+    "title": "Graffette e clips",
+    "aliases": ["graffetta", "clip", "clips", "fermacarte", "graffetta metallica"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-elastico",
+    "title": "Elastici e legacci",
+    "aliases": ["elastico", "lega capelli", "elastico capelli", "fascetta"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-carta-regalo",
+    "title": "Carta regalo (se plastificata)",
+    "aliases": ["carta regalo", "carta dono", "carta regalo plastificata"],
+    "material_id": "secco",
+    "note": "Se la carta regalo è semplice carta, va nella carta. Se è patinata o plastificata, va nel secco."
+  },
+  {
+    "id": "secco-fettuccia",
+    "title": "Fettucce e nastri decorativi",
+    "aliases": ["fettuccia", "nastri", "nastro decorazione"],
+    "material_id": "secco"
+  },
+  {
+    "id": "carta-carta-regalo-semplice",
+    "title": "Carta regalo semplice (non plastificata)",
+    "aliases": ["carta regalo semplice", "carta da regalo non plastificata"],
+    "material_id": "carta"
+  },
+  {
+    "id": "secco-cialde-caffe",
+    "title": "Cialde di caffè in plastica dura (tipo Lavazza a Modo Mio)",
+    "aliases": ["cialda caffe", "cialde caffe", "cialda plastica", "caffe cialde"],
+    "material_id": "secco",
+    "note": "Se sono in plastica dura (Lavazza, Nespresso). Svuota il caffè nell'organico e getta la cialda nel secco."
+  },
+  {
+    "id": "organico-cialde-compostabili",
+    "title": "Cialde di caffè compostabili",
+    "aliases": ["cialda compostabile", "cialde biodegradabili", "caffe compostabile"],
+    "material_id": "organico",
+    "note": "Solo se certificate compostabili (marchio). Verifica sulla confezione."
+  },
+  {
+    "id": "secco-lenti-contatto",
+    "title": "Lenti a contatto usa e getta",
+    "aliases": ["lenti contatto", "lenti a contatto", "lentine", "occhiali contatto"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-pasta-modellabile",
+    "title": "Pasta modellabile (DAS, pongo)",
+    "aliases": ["das", "pongo", "dido", "plastilina", "creta"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-colla-carta",
+    "title": "Colla stick e colla vinilica (tubetti)",
+    "aliases": ["colla stick", "colla vinilica", "pinxit", "bicchiere colla", "tubetto colla"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-smalto-unghie",
+    "title": "Smalto per unghie e solvente",
+    "aliases": ["smalto", "solvente unghie", "acetone", "smalto unghie"],
+    "material_id": "secco",
+    "note": "Se possibile, porta solventi e smalti all'isola ecologica come rifiuti pericolosi."
+  },
+  {
+    "id": "secco-bomboletta-vernice",
+    "title": "Vernice e bombolette di pittura",
+    "aliases": ["vernice", "pittura", "bombolette vernice", "colore parete"],
+    "material_id": "secco",
+    "note": "Rifiuto pericoloso. Portala all'isola ecologica."
+  },
+  {
+    "id": "secco-olio-minerale",
+    "title": "Olio minerale (lubrificante, grasso)",
+    "aliases": ["olio minerale", "lubrificante", "grasso", "vaselina"],
+    "material_id": "secco",
+    "note": "Rifiuto pericoloso. Portalo all'isola ecologica."
+  },
+  {
+    "id": "secco-pesticidi",
+    "title": "Pesticidi e diserbanti",
+    "aliases": ["pesticida", "diserbante", "antiparassitario", "veleno topi"],
+    "material_id": "secco",
+    "note": "Rifiuto pericoloso. Porta i contenitori all'isola ecologica."
+  },
+  {
+    "id": "secco-cartucce-toner",
+    "title": "Cartucce toner per stampanti laser",
+    "aliases": ["toner", "cartuccia laser", "toner stampante", "cartuccia polvere"],
+    "material_id": "secco",
+    "note": "Alcuni produttori (HP, Brother) offrono programmi di riciclo gratuiti. Altrimenti, conferiscile all'isola ecologica."
+  },
+  {
+    "id": "secco-penna-cancellino",
+    "title": "Pennarello cancellino per lavagna bianca",
+    "aliases": ["pennarello cancellino", "pennarello lavagna", "marcatore cancellabile"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-penna-pittura",
+    "title": "Penne a olio e a pittura",
+    "aliases": ["penna olio", "pennarello colore", "penna pittura"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-gessetti",
+    "title": "Gessetti e pastelli",
+    "aliases": ["gessetto", "pastello", "gesso", "pastello cera", "pastello olio"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-colori-tempera",
+    "title": "Colori a tempera e acquerelli",
+    "aliases": ["tempera", "acquerelli", "colori scuola", "pittura bambini"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-fogli-pellicola",
+    "title": "Pellicola adesiva per rivestimenti",
+    "aliases": ["pellicola adesiva", "rivestimento adesivo", "carta adesiva plastica"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-blu-tack",
+    "title": "Patafix e gomme adesive",
+    "aliases": ["patafix", "gomma adesiva", "blu tack", "attacca", "stucco adesivo"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-cartelli-strada",
+    "title": "Cartelli e segnali stradali",
+    "aliases": ["cartello stradale", "segnale stradale", "cartello metallo"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-giocattoli-elettronici",
+    "title": "Giocattoli elettronici rotti",
+    "aliases": ["gioco elettronico", "pistola giocattolo", "robot giocattolo", "macchinina elettrica"],
+    "material_id": "secco",
+    "note": "Rimuovi le pile."
+  },
+  {
+    "id": "secco-tastiera",
+    "title": "Tastiera computer rotta",
+    "aliases": ["tastiera", "tastiera computer", "tastiera rotto", "tastiera pc"],
+    "material_id": "secco",
+    "note": "RAEE — portala all'isola ecologica."
+  },
+  {
+    "id": "secco-mouse",
+    "title": "Mouse del computer rotto",
+    "aliases": ["mouse", "mouse computer", "mouse rotto", "mouse pc"],
+    "material_id": "secco",
+    "note": "RAEE — portalo all'isola ecologica."
+  },
+  {
+    "id": "secco-cavo-hdmi",
+    "title": "Cavi HDMI, VGA, jack audio",
+    "aliases": ["hdmi", "cavo hdmi", "vga", "jack audio", "cavo audio"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-alimentatore",
+    "title": "Alimentatore e trasformatore",
+    "aliases": ["alimentatore", "caricabatteria", "trasformatore", "power supply"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-scarpe-vecchie",
+    "title": "Scarpe vecchie e usurato",
+    "aliases": ["scarpe", "scarpa", "sandali", "stivali", "scarpe vecchie"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-ciabatte",
+    "title": "Ciabatte e infradito",
+    "aliases": ["ciabatte", "infradito", "ciabatte rotte", "pantofole"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-vestiti-vecchi",
+    "title": "Vestiti vecchi e stracci",
+    "aliases": ["vestiti", "abbigliamento", "magliette", "pantaloni", "giacche"],
+    "material_id": "secco",
+    "note": "Se in buono stato, donali ai contenitori per abiti usati."
+  },
+  {
+    "id": "secco-lenzuola",
+    "title": "Lenzuola e federe vecchie",
+    "aliases": ["lenzuola", "lenzuolo", "federe", "coperte", "biancheria letto"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco- asciugamani",
+    "title": "Asciugamani e salviette vecchie",
+    "aliases": ["asciugamani", "salviette", "accappatoio"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-tovaglie",
+    "title": "Tovaglie e tovagliette vecchie",
+    "aliases": ["tovaglia", "tovaglie", "tovagliette", "tovaglia cerata"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-tappetini-mouse",
+    "title": "Tappetino per mouse",
+    "aliases": ["tappetino mouse", "tappetino pc", "mouse pad"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-tappetino-yoga",
+    "title": "Tappetino yoga/fitness",
+    "aliases": ["tappetino yoga", "materassino fitness", "tappetino palestra"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-cinture",
+    "title": "Cinture in pelle o similpelle",
+    "aliases": ["cintura", "cinture", "cinture pelle", "cinture vecchie"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-borse-plastiche",
+    "title": "Borse in plastica o nylon (sport, viaggio)",
+    "aliases": ["borsa plastica", "borsa nylon", "borsa sport", "zaino nylon"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-porta-cellulare",
+    "title": "Custodia per cellulare in silicone",
+    "aliases": ["custodia silicone", "cover silicone", "cover cellulare silicone"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-pennello",
+    "title": "Pennelli e rulli per pittura",
+    "aliases": ["pennello", "pennelli", "rullo pittura", "spatola"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-bombolette-alluminio",
+    "title": "Bombolette alluminio per panna montata",
+    "aliases": ["panna spray", "bombolletta panna", "panna montata bombolletta"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-bastoncini-igienici",
+    "title": "Bastoncini igienici (cotton fioc)",
+    "aliases": ["cotton fioc usati", "bastoncino cotone usa e getta"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-dentifricio-tubo",
+    "title": "Tubo dentifricio in metallo/plastica mista",
+    "aliases": ["dentifricio tubetto", "pasta dentifricia", "dentifricio finito"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-filo-dentale",
+    "title": "Filo interdentale usato",
+    "aliases": ["filo interdentale usato", "scovolino usato"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-spazzolino-elettrico",
+    "title": "Spazzolino elettrico (testina e corpo)",
+    "aliases": ["spazzolino elettrico", "testina spazzolino elettrico"],
+    "material_id": "secco",
+    "note": "La testina va nel secco. Il corpo è RAEE."
+  },
+  {
+    "id": "secco-rasoio-elettrico",
+    "title": "Rasoio elettrico rotto",
+    "aliases": ["rasoio elettrico", "philishave", "braun rasoi"],
+    "material_id": "secco",
+    "note": "RAEE — portalo all'isola ecologica."
+  },
+  {
+    "id": "secco-epilatore",
+    "title": "Epilatore elettrico rotto",
+    "aliases": ["epilatore", "depilatore elettrico"],
+    "material_id": "secco",
+    "note": "RAEE — portalo all'isola ecologica."
+  },
+  {
+    "id": "secco-fornello-gas",
+    "title": "Fornello a gas da campeggio",
+    "aliases": ["fornello campeggio", "fornellino gas", "cucina campeggio"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-bombola-gas",
+    "title": "Bonbola gas piccola (da campeggio, saldatura)",
+    "aliases": ["bombola gas", "bombola piccola gas", "bombola campeggio"],
+    "material_id": "secco",
+    "note": "Rifiuto pericoloso. Portala all'isola ecologica."
+  },
+  {
+    "id": "secco-estintore",
+    "title": "Estintore scaduto",
+    "aliases": ["estintore", "estintore scaduto"],
+    "material_id": "secco",
+    "note": "Portalo al centro di raccolta o alla ditta specializzata. Non buttarlo nel secco."
+  },
+  {
+    "id": "secco-gomma-pneumatico",
+    "title": "Pneumatico piccolo (bici, motorino)",
+    "aliases": ["pneumatico bici", "copertone bici", "gomma bici"],
+    "material_id": "secco",
+    "note": "Portalo dal gommista. Per auto, il gommista è obbligato al ritiro gratuito."
+  },
+  {
+    "id": "secco-catena-bici",
+    "title": "Catena di bicicletta rotta",
+    "aliases": ["catena bici", "catena bicicletta", "corona bici"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-sella-bici",
+    "title": "Sella di bicicletta vecchia",
+    "aliases": ["sella bici", "sellino bici", "sella bicicletta"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-cavalcavia",
+    "title": "Giocattoli da esterno in plastica (slitte, secchielli, palette)",
+    "aliases": ["secchiello", "paletta", "giocattolo spiaggia", "slitta plastica"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-scaffali",
+    "title": "Scaffali e librerie in plastica",
+    "aliases": ["scaffale plastica", "scaffalatura", "mensola plastica"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-cassetti-plastica",
+    "title": "Cassetti e contenitori in plastica",
+    "aliases": ["cassetto plastica", "contenitore plastica", "portaoggetti plastica"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-porta-ombrelli",
+    "title": "Portaombrelli in plastica o metallo",
+    "aliases": ["portaombrelli", "porta ombrelli"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-cestino-carta",
+    "title": "Cestino portarifiuti in plastica",
+    "aliases": ["cestino", "patumiera", "secchio rifiuti"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-vasi-nylon",
+    "title": "Vasi da fiori in plastica",
+    "aliases": ["vaso fiori plastica", "vasetti plastica", "vasi vivaio"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-tubi-da-giardino",
+    "title": "Tubo da giardino in gomma",
+    "aliases": ["tubo giardino", "tubo acqua", "manichetta giardino"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-seghetto",
+    "title": "Attrezzi da giardinaggio (piccoli)",
+    "aliases": ["rastrello", "zappa", "vanga", "cesoie", "forbici potatura"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-guanti-giardino",
+    "title": "Guanti da giardinaggio",
+    "aliases": ["guanti giardino", "guanti da giardino"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-sacchi-terriccio",
+    "title": "Sacchi di terriccio e fertilizzante (vuoti)",
+    "aliases": ["sacchi terriccio", "sacchetto terriccio", "confezione fertilizzante"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-rete-recinzione",
+    "title": "Reti di recinzione in plastica",
+    "aliases": ["rete recinzione", "rete plastica", "rete orto"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-teli-pacciamatura",
+    "title": "Teli di pacciamatura in plastica",
+    "aliases": ["telo pacciamatura", "telo plastica giardino"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-bottiglie-plastica-ritorte",
+    "title": "Bottiglie di plastica contaminate (olio motore, vernice)",
+    "aliases": ["bottiglia olio motore", "bottiglia vernice", "flacone solvente"],
+    "material_id": "secco",
+    "note": "Se contengono sostanze pericolose, portale all'isola ecologica."
+  },
+  {
+    "id": "secco-officina-piccola",
+    "title": "Filtri e pezzi meccanici piccoli da officina",
+    "aliases": ["filtro aria auto", "filtro benzina", "guarnizioni", "o-ring", "pezzi meccanici"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-batteria-ricaricabile",
+    "title": "Batterie ricaricabili (pile)",
+    "aliases": ["batteria ricaricabile", "pila ricaricabile", "stilo ricaricabile"],
+    "material_id": "secco",
+    "note": "Portale nei contenitori appositi per pile esauste."
+  },
+  {
+    "id": "secco-carta-carbonicata",
+    "title": "Carta carbone e carta chimica",
+    "aliases": ["carta carbone", "carta chimica", "carta copiativo"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-fogli-etichette",
+    "title": "Fogli adesivi e etichette",
+    "aliases": ["foglio adesivo", "foglio etichette", "carta adesiva"],
+    "material_id": "secco"
+  },
+  {
+    "id": "vetro-lampada-vetro",
+    "title": "Lampada in vetro (oggetto)",
+    "aliases": ["lampada vetro", "lume vetro", "lampadario vetro"],
+    "material_id": "vetro"
+  },
+  {
+    "id": "vetro-lastre",
+    "title": "Lastre di vetro pulite (piccole)",
+    "aliases": ["lastra vetro", "vetro piano", "pannello vetro"],
+    "material_id": "vetro",
+    "note": "Le lastre di vetro vanno normalmente all'isola ecologica."
+  },
+  {
+    "id": "vetro-contenitori-farmaci-vetro",
+    "title": "Flaconi in vetro per farmaci",
+    "aliases": ["flacone farmaco vetro", "boccetta medicinale vetro"],
+    "material_id": "vetro"
+  },
+  {
+    "id": "vetro-buco-vetro",
+    "title": "Oggetti in vetro borosilicato (Pyrex)",
+    "aliases": ["pyrex", "vetro borosilicato", "pentola pyrex"],
+    "material_id": "vetro",
+    "note": "Il Pyrex ha una composizione diversa dal vetro comune. Alcuni comuni lo accettano nel vetro, altri no."
+  },
+  {
+    "id": "carta-carta-igienica",
+    "title": "Rotolo di carta igienica (tubo cartone)",
+    "aliases": ["rotolo carta igienica", "tubo cartone igienica"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-blocco-fogli",
+    "title": "Bloc notes e agende",
+    "aliases": ["blocco note", "agenda", "taccuino", "moleskine"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-maculatura",
+    "title": "Carta da macero e risme usate",
+    "aliases": ["risma carta", "carta macero", "scarti carta"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-biglietti",
+    "title": "Biglietti di auguri e inviti",
+    "aliases": ["biglietto invito", "partecipazione nozze", "invito festa"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-timbri",
+    "title": "Timbri in gomma (non in uso)",
+    "aliases": ["timbro", "timbri", "timbro postale"],
+    "material_id": "carta",
+    "note": "Se sono in plastica o gomma, vanno nel secco."
+  },
+  {
+    "id": "metallo-portachiavi-metallo",
+    "title": "Portachiavi in metallo",
+    "aliases": ["portachiave metallo", "anello portachiavi"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "metallo-bulloni",
+    "title": "Viti, bulloni, dadi metallici",
+    "aliases": ["viti", "bulloni", "dadi", "rondelle", "ferramenta"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "metallo-chiodi",
+    "title": "Chiodi e puntine",
+    "aliases": ["chiodi", "chiodo", "puntine metalliche"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "metallo-braccialetti",
+    "title": "Bracciali e catenine metalliche",
+    "aliases": ["bracciale metallo", "catenina metallo", "bigiotteria metallo"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "metallo-posate-argentate",
+    "title": "Posate in acciaio o argento",
+    "aliases": ["posate argento", "posate acciaio", "argenteria"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "metallo-pendagli",
+    "title": "Pendagli e monili vari",
+    "aliases": ["pendaglio", "ciondolo", "medaglietta", "orecchini metallo"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "metallo-monete",
+    "title": "Monete fuori corso",
+    "aliases": ["moneta", "monete vecchie", "monete lira", "spiccioli vecchi"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "plastica-tappi-detersivo",
+    "title": "Tappi per detersivo e ammorbidente",
+    "aliases": ["tappo detersivo", "dosatore detersivo", "tappo ammorbidente"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-bottiglia-bibite",
+    "title": "Bottiglia plastica bibite gassate",
+    "aliases": ["bottiglietta bibita", "plastica bibita"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-bicchierino-yogurt",
+    "title": "Bicchierino di yogurt (plastica rigida)",
+    "aliases": ["bicchierino yogurt", "vasetto yogurt piccolo"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-vaso-fiori",
+    "title": "Vaso di fiori in plastica (piccolo)",
+    "aliases": ["vaso plastica", "vaso fiori plastica", "vaso vivaio"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-porta-oggetti",
+    "title": "Portaoggetti e organizer in plastica",
+    "aliases": ["portaoggetti", "organizer plastica", "contenitore plastica rigida"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-vassoio-porta-posate",
+    "title": "Vassoio portaposate in plastica",
+    "aliases": ["portaposate", "vassoio posate", "cestello posate"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-custodia-bicchieri",
+    "title": "Custodia per bicchieri (in plastica)",
+    "aliases": ["portabicchieri", "confezione bicchieri"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "carta-libro-vecchio",
+    "title": "Libri e volumi vecchi",
+    "aliases": ["libro vecchio", "enciclopedia vecchia", "romanzo consumato"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-fascicolo",
+    "title": "Fascicoli e documenti cartacei",
+    "aliases": ["fascicolo", "dossier", "documenti", "pratica cartacea"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-brochure",
+    "title": "Brochure e cataloghi",
+    "aliases": ["brochure", "catalogo", "opuscolo pubblicitario"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-mappe",
+    "title": "Mappe e cartine geografiche",
+    "aliases": ["mappa", "cartina", "guida turistica"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-giornale-vecchio",
+    "title": "Giornali vecchi e riviste",
+    "aliases": ["giornale vecchio", "quotidiano vecchio", "rivista vecchia"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-posters",
+    "title": "Manifesti e poster pubblicitari",
+    "aliases": ["poster pubblicitario", "manifesto pubblicitario"],
+    "material_id": "carta"
+  },
+  {
+    "id": "metallo-bicchieri-metallo",
+    "title": "Bicchieri in metallo (tipo da campeggio)",
+    "aliases": ["bicchiere metallo", "tazza metallo", "tazzina metallo"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "metallo-contenitore-spray",
+    "title": "Spray per profumi e deodoranti (metallo)",
+    "aliases": ["spray profumo", "spray deodorante", "bombolletta metallo"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "secco-borsa-ghiaccio",
+    "title": "Borsa dell'acqua calda o del ghiaccio",
+    "aliases": ["borsa acqua calda", "borsa ghiaccio", "bottiglia termica"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-termometro",
+    "title": "Termometro a mercurio rotto",
+    "aliases": ["termometro", "termometro mercurio", "termometro rotto"],
+    "material_id": "secco",
+    "note": "Il mercurio è pericoloso. Contatta l'ASL o portalo all'isola ecologica."
+  },
+  {
+    "id": "secco-termometro-digitale",
+    "title": "Termometro digitale rotto",
+    "aliases": ["termometro digitale", "termometro elettronico"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-misuratore-pressione",
+    "title": "Misuratore pressione sanguigna rotto",
+    "aliases": ["misuratore pressione", "sfigmomanometro", "misuratore cuore"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-glucometro",
+    "title": "Glucometro e strisce reattive",
+    "aliases": ["glucometro", "strisce glicemia", "misuratore zucchero"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-instrumenti-medici",
+    "title": "Strumenti medici in plastica/usa e getta",
+    "aliases": ["strumenti medici", "set medici", "presidi medici usa e getta"],
+    "material_id": "secco"
+  },
+  {
+    "id": "organico-pesce-spine",
+    "title": "Spine e lische di pesce",
+    "aliases": ["lische", "spine pesce", "scarti pesce", "testa pesce", "pinne"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-ossa-carne",
+    "title": "Ossa di carne",
+    "aliases": ["osso animale", "ossa", "carne ossa", "pollo osso"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-crostacei",
+    "title": "Gusci di crostacei (gamberi, aragosta)",
+    "aliases": ["crostacei", "gamberi", "aragosta", "gusci gamberi", "code gamberi"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-molluschi",
+    "title": "Conchiglie di molluschi (cozze, vongole)",
+    "aliases": ["molluschi", "cozze", "vongole", "conchiglie", "arselle"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-ricotta",
+    "title": "Latticini scaduti (ricotta, mozzarella, yogurt)",
+    "aliases": ["latticini", "ricotta scaduta", "mozzarella scaduta", "yogurt scaduto", "formaggio fresco"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-burro",
+    "title": "Burro e margarina scaduti",
+    "aliases": ["burro", "margarina", "burro scaduto"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-offerte",
+    "title": "Cibo preparato avanzato (pizze, focacce)",
+    "aliases": ["pizza avanzo", "focaccia", "torta salata", "cibo cotto"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-dolci",
+    "title": "Dolci e pasticcini avanzati",
+    "aliases": ["dolce", "pasticcino", "biscotto", "torta", "cornetto"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-cioccolato",
+    "title": "Cioccolato e caramelle scaduti",
+    "aliases": ["cioccolato", "cioccolatino", "caramella", "caramelle", "merendina"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-gelato",
+    "title": "Gelato avanzato fuso",
+    "aliases": ["gelato", "gelato sciolto", "gelato scaduto"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-sughi",
+    "title": "Sughi e salse avanzati",
+    "aliases": ["sugo", "pesto", "salsa", "crema cucina", "besciamella"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-condimenti",
+    "title": "Condimenti vari (olio, aceto) — liquidi non più utilizzabili",
+    "aliases": ["olio", "aceto", "condimenti", "olio fritto"],
+    "material_id": "organico",
+    "note": "L'olio esausto va portato all'isola ecologica o nei contenitori per olio esausto."
+  },
+  {
+    "id": "organico-pane-pasta",
+    "title": "Pane e pasta scaduti",
+    "aliases": ["pane pasta", "pane e pasta", "pasta scaduta"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-pizza",
+    "title": "Pizza avanzata (senza scatola)",
+    "aliases": ["pizza vecchia", "pizza secca"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-torte-salate",
+    "title": "Torte salate e quiche",
+    "aliases": ["torta salata", "quiche", "pizza", "focaccia imbottita"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-formaggi",
+    "title": "Formaggi stagionati (scarti)",
+    "aliases": ["formaggio stagionato", "crosta formaggio", "parmigiano", "grana"],
+    "material_id": "organico"
+  },
+  {
+    "id": "secco-bottiglie-acqua-usa-getta",
+    "title": "Bottigliette d'acqua in plastica (da ufficio)",
+    "aliases": ["bottiglia acqua ufficio", "bottiglietta plastica"],
+    "material_id": "secco",
+    "note": "Se il comune ricicla le bottiglie di plastica, vanno nella plastica. Qui si intendono quelli non riciclabili."
+  },
+  {
+    "id": "secco-polvere-spazza",
+    "title": "Polvere e sporcizia dalla spazzatura",
+    "aliases": ["polvere", "terra", "sabbia", "sporco"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-fango",
+    "title": "Fango secco e residui di pulizia",
+    "aliases": ["fango", "fanghi", "residui pulizia"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco- sapone",
+    "title": "Saponi e detergenti solidi (pezzi piccoli)",
+    "aliases": ["sapone", "saponetta", "detergente solido"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-bicarbonato",
+    "title": "Bicarbonato e lievito scaduti",
+    "aliases": ["bicarbonato", "lievito", "lievito chimico", "baking soda"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-sale",
+    "title": "Sale da cucina scaduto",
+    "aliases": ["sale", "sale da cucina"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-zucchero-vecchio",
+    "title": "Zucchero vecchio e grumi",
+    "aliases": ["zucchero vecchio", "zucchero grumi"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-farina",
+    "title": "Farina scaduta",
+    "aliases": ["farina vecchia", "farina scaduta", "farina"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-cacao",
+    "title": "Cacao in polvere scaduto",
+    "aliases": ["cacao", "cacao in polvere"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-caffè-macinato",
+    "title": "Caffè in polvere scaduto",
+    "aliases": ["caffe in polvere", "caffe macinato scaduto"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-spezie",
+    "title": "Spezie scadute",
+    "aliases": ["spezie", "curry", "pepe", "paprika", "cannella", "spezie vecchie"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-condimenti-polveri",
+    "title": "Dadi e preparati per brodo scaduti",
+    "aliases": ["dado brodo", "dadi", "preparato brodo", "brodo granulare"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-alimenti-scaduti",
+    "title": "Alimenti in scatola scaduti (se non aperti)",
+    "aliases": ["scatolame scaduto", "cibo in scatola scaduto"],
+    "material_id": "secco",
+    "note": "Se la scatola è ancora chiusa e integra, considera la donazione. Se è scaduta da molto, apri e svuota il contenuto nell'organico e la scatola va nel metallo."
+  },
+  {
+    "id": "organico-barbatrucco",
+    "title": "Fondi di caffè e filtri",
+    "aliases": ["caffe fondo", "filtro caffe"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-tappi-sughero-naturali",
+    "title": "Tappo di sughero naturale",
+    "aliases": ["sughero tappo", "sughero vino", "tappo sughero vino"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-stuzzica-denti",
+    "title": "Stuzzicadenti di legno",
+    "aliases": ["stecchino denti", "stuzzicadenti legno"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-stecchi-ghiaccio",
+    "title": "Stecchi di legno per ghiacciolo",
+    "aliases": ["stecco ghiacciolo", "bastoncino ghiacciolo"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-fiammifero",
+    "title": "Fiammiferi in legno carbonizzati",
+    "aliases": ["fiammifero usato", "cerino usato"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-paglia",
+    "title": "Paglia e fieno",
+    "aliases": ["paglia", "fieno", "paglia per animali"],
+    "material_id": "organico"
+  },
+  {
+    "id": "organico-segatura-naturale",
+    "title": "Segatura di legno non trattato",
+    "aliases": ["segatura legno", "trucioli naturali"],
+    "material_id": "organico"
+  },
+  {
+    "id": "secco-lettera-finta",
+    "title": "Lettere e documenti personali (per privacy)",
+    "aliases": ["documenti", "lettere", "posta", "estratti conto"],
+    "material_id": "secco",
+    "note": "Per privacy, considera di distruggere i documenti sensibili prima di buttarli."
+  },
+  {
+    "id": "secco-fotocopie-colore",
+    "title": "Fotocopie a colori (carta patinata)",
+    "aliases": ["fotocopia colore", "stampa colore", "carta fotografica"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-carta-fotografica",
+    "title": "Carta fotografica (stampe foto)",
+    "aliases": ["carta foto", "foto stampa", "carta fotografica lucida"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-plastica-usa-getta",
+    "title": "Stoviglie usa e getta in plastica (sporche)",
+    "aliases": ["stoviglie usa e getta", "forchetta usa getta", "piatto usa getta sporco"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-bicchieri-plastica-sporchi",
+    "title": "Bicchieri di plastica sporchi",
+    "aliases": ["bicchiere plastica sporco", "bicchieri festa sporchi"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-canucce-plastica",
+    "title": "Cannucce di plastica",
+    "aliases": ["cannuccia", "canucce"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-bottiglie-polistirolo",
+    "title": "Bottiglie di polistirolo o plastica espansa",
+    "aliases": ["polistirolo bottiglia", "plastica espansa"],
+    "material_id": "secco"
+  },
+  {
+    "id": "plastica-bottiglie-ritorte",
+    "title": "Bottiglie di plastica compresse",
+    "aliases": ["bottiglia plastica compressa", "bottiglia schiacciata"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-sacchetti-congelati",
+    "title": "Sacchetti per congelazione",
+    "aliases": ["sacchetto congelatore", "busta congelamento", "sacchetto freezer"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-contenitore-prodotti",
+    "title": "Contenitori per prodotti per la pulizia della casa",
+    "aliases": ["contenitore pulizia", "flacone pulizia"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-contenitore-cosmetici",
+    "title": "Contenitori cosmetici in plastica (creme, lozioni)",
+    "aliases": ["cosmetici plastica", "contenitore crema", "flacone lozione"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-contenitore-shampoo",
+    "title": "Flacone shampoo e bagnoschiuma",
+    "aliases": ["shampoo flacone", "bagnoschiuma flacone", "doccia schiuma"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-dentifricio-confezione",
+    "title": "Confezione dentifricio in plastica (tubetto)",
+    "aliases": ["dentifricio tubetto plastica", "confezione dentifricio"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-bottiglia-sapone",
+    "title": "Bottiglia di sapone liquido mani",
+    "aliases": ["sapone mani", "flacone sapone", "sapone liquido"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-flacone-ciuccio",
+    "title": "Flacone per ciuccio e altri prodotti per bambini",
+    "aliases": ["flacone bambino", "contenitore biberon"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-bottiglia-succhi-frutta",
+    "title": "Bottiglia di plastica per succhi e bevande",
+    "aliases": ["bottiglia succo frutta", "bottiglia bevanda"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-tappi-bottiglie-plastica",
+    "title": "Tappi delle bottiglie di plastica",
+    "aliases": ["tappi plastica bottiglie", "tappi di plastica"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "carta-ritagli-carta",
+    "title": "Ritagli di carta e piccoli fogli",
+    "aliases": ["ritagli", "ritaglio", "scarti carta", "pezzi carta"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-confetti-carta",
+    "title": "Coriandoli e stelle filanti di carta",
+    "aliases": ["coriandoli carta", "stelle filanti", "festoni carta"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-biglietti-viaggio",
+    "title": "Biglietti di viaggio (treno, aereo) in carta",
+    "aliases": ["biglietto treno", "biglietto aereo", "carta imbarco"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-inviti",
+    "title": "Inviti a feste e cerimonie",
+    "aliases": ["invito", "partecipazione", "wedding"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-listini",
+    "title": "Listini prezzi e cataloghi",
+    "aliases": ["listino", "listino prezzi", "catalogo"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-menu",
+    "title": "Menu di ristoranti",
+    "aliases": ["menu ristorante", "listino ristorante", "cartella ristorante"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-sacchetti-carta",
+    "title": "Sacchetti di carta (pane, frutta)",
+    "aliases": ["sacchetto pane", "sacchetto frutta carta", "busta pane carta"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-fogli-riciclati",
+    "title": "Fogli di carta riciclata e bozze",
+    "aliases": ["foglio riciclato", "bozze", "stampe bozze", "carta brutta"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-rotoli-pittura",
+    "title": "Rotoli di carta da pittura",
+    "aliases": ["rotolo pittura", "carta pittura", "carta da imbianchino"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-mensile",
+    "title": "Mensili e periodici",
+    "aliases": ["mensile", "periodico", "settimanale", "rivista mensile"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-pieghevoli",
+    "title": "Pieghevoli e brochure pubblicitarie",
+    "aliases": ["pieghevole", "brochure", "opuscolo"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-libro-pagine",
+    "title": "Pagine strappate da libri e quaderni",
+    "aliases": ["pagine libro", "fogli strappati"],
+    "material_id": "carta"
+  },
+  {
+    "id": "carta-scontrino-termico",
+    "title": "Scontrini fiscali (se carta comune)",
+    "aliases": ["scontrino fiscale", "scontrino negozio", "ricevuta fiscale"],
+    "material_id": "carta"
+  },
+  {
+    "id": "metallo-vasellame",
+    "title": "Vasellame e stoviglie in metallo (pentole, padelle)",
+    "aliases": ["pentole metallo", "padelle metallo", "stoviglie metallo"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "metallo-cucina-utensili",
+    "title": "Utensili da cucina in metallo",
+    "aliases": ["utensili cucina metallo", "mestolo metallo", "schiumarola", "grattugia"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "metallo-copri- pentola",
+    "title": "Coperchi di pentole e padelle",
+    "aliases": ["coperchio pentola", "coperchio padella", "coperchi vari"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "metallo-coltelli",
+    "title": "Coltelli da cucina (non appuntiti)",
+    "aliases": ["coltello", "coltelli cucina", "lame cucina"],
+    "material_id": "metallo",
+    "note": "Se sono molto affilati, avvolgili in carta per sicurezza."
+  },
+  {
+    "id": "metallo-bottiglie-acciaio",
+    "title": "Bottiglie in acciaio inox (borracce)",
+    "aliases": ["borraccia acciaio", "bottiglia acciaio"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "metallo-portacandele",
+    "title": "Portacandele e candelabri in metallo",
+    "aliases": ["portacandele", "candelabro", "candeliere"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "metallo-bomboniere",
+    "title": "Bomboniere e segnaposti in metallo",
+    "aliases": ["bomboniera metallo", "segnaposto metallo"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "metallo-portachiave",
+    "title": "Portachiavi e magneti in metallo",
+    "aliases": ["portachiave metallo", "magnete metallo", "calamita"],
+    "material_id": "metallo"
+  },
+  {
+    "id": "secco-sacchetti-immondizia",
+    "title": "Sacchetti dell'immondizia (pieni)",
+    "aliases": ["sacchetto immondizia", "busta spazzatura", "sacchetto rifiuti"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-spugne-acciaio",
+    "title": "Pagliette metalliche (acciaio)",
+    "aliases": ["paglietta", "pagliette", "lana acciaio", "spugna metallica"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-spugna-cucina",
+    "title": "Spugna da cucina (usata)",
+    "aliases": ["spugna cucina usata", "spugnetta piatti"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-panni-microfibra",
+    "title": "Panni in microfibra usati",
+    "aliases": ["panno microfibra", "panni microfibra", "straccio microfibra"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-guantiera-latex",
+    "title": "Guanti in lattice usa e getta (pulizia)",
+    "aliases": ["guanti lattice", "guanti pulizia", "guanti monouso"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-pellicola-trasparente",
+    "title": "Pellicola trasparente (usata)",
+    "aliases": ["pellicola usata", "peliocola usata"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-carta-stagnola-sporca",
+    "title": "Carta stagnola sporca",
+    "aliases": ["stagnola sporca", "alluminio sporco"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-carta-olio",
+    "title": "Carta da forno unta d'olio",
+    "aliases": ["carta forno unta", "carta olio"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-piastrina-odore",
+    "title": "Piastrine e deodoranti per ambienti",
+    "aliases": ["deodorante ambiente", "piastrina deodorante", "profumatore"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-cera-candela",
+    "title": "Cera di candela",
+    "aliases": ["cera", "candela cera", "residui cera"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-colla-attak",
+    "title": "Attak e colla adesiva (residui)",
+    "aliases": ["attak", "attac", "super attak", "colla forte", "cianoacrilato"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-lucido-scarpe",
+    "title": "Lucido per scarpe (contenitore e residui)",
+    "aliases": ["lucido scarpe", "crema scarpe", "lucido da scarpe"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-bombolletta-lacca",
+    "title": "Lacca e spray per capelli (vuoti)",
+    "aliases": ["lacca", "spray capelli", "lacche", "lacca per capelli"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-deodorante-ambiente",
+    "title": "Deodorante spray ambiente (vuoto)",
+    "aliases": ["deodorante spray", "spray ambiente", "profuma ambiente"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-insetticida",
+    "title": "Insetticida spray (vuoto)",
+    "aliases": ["insetticida", "spray zanzare", "antizanzare spray"],
+    "material_id": "secco",
+    "note": "Se il contenitore è vuoto, può andare nel secco. Altrimenti, portalo all'isola ecologica."
+  },
+  {
+    "id": "secco-tubo-scarico",
+    "title": "Tubo di scarico in plastica o gomma",
+    "aliases": ["tubo scarico", "tubo plastica", "manichetta"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-sacchetti-aspirazione",
+    "title": "Sacchetti raccoglitore sottovuoto",
+    "aliases": ["sacchetto aspirapolvere", "sacchetto per aspirapolvere"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-filtri-acqua",
+    "title": "Filtri per caraffa e rubinetto esausti",
+    "aliases": ["filtro acqua", "caraffa filtro", "cartuccia filtro acqua"],
+    "material_id": "secco"
+  },
+  {
+    "id": "secco-filtri-caffè-espresso",
+    "title": "Filtri per macchina espresso domestica",
+    "aliases": ["filtro espresso", "filtro caffè espresso"],
+    "material_id": "secco"
+  },
+  {
+    "id": "plastica-bottiglia-plastica-bevande",
+    "title": "Bottiglia plastica per bevande",
+    "aliases": ["bottiglia bevande", "bottiglia plastica piccola"],
+    "material_id": "plastica"
+  },
+  {
+    "id": "plastica-confezione-acqua-calda",
+    "title": "Bollitore per acqua calda (plastica)",
+    "aliases": ["bollitore plastica", "scaldabagno"],
+    "material_id": "plastica"
+  }
+]

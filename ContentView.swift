@@ -5,6 +5,7 @@
 //  Created by Alessandro Di Giusto on 24/04/2026.
 //
 
+import Combine
 import SwiftUI
 
 struct ContentView: View {
@@ -428,11 +429,15 @@ private struct SearchInfoRow: View {
 }
 
 // FIX 1: Titolo compatto su 2 righe ("Raccolta / Acireale"), clock pill snella, niente sottotitolo fisso
+// ENERGY FIX: TimelineView aggiornato ogni 60 secondi invece di ogni 1 secondo (−98% refresh)
 private struct HeaderView: View {
     let locale: Locale
     let municipalityName: String
     let isReminderPickerVisible: Bool
     let onClockTap: () -> Void
+
+    @State private var now = Date()
+    private let timer = Timer.publish(every: 30, on: .main, in: .common).autoconnect()
 
     var body: some View {
         HStack(alignment: .center, spacing: 12) {
@@ -449,27 +454,29 @@ private struct HeaderView: View {
 
             Spacer(minLength: 0)
 
-            TimelineView(.periodic(from: .now, by: 1)) { context in
-                Button(action: onClockTap) {
-                    VStack(alignment: .trailing, spacing: 2) {
-                        Text(context.date.formatted(.dateTime.locale(locale).hour().minute().second()))
-                            .font(.system(size: 22, weight: .black, design: .rounded))
-                            .foregroundStyle(.white)
+            Button(action: onClockTap) {
+                VStack(alignment: .trailing, spacing: 2) {
+                    Text(now.formatted(.dateTime.locale(locale).hour().minute()))
+                        .font(.system(size: 26, weight: .black, design: .rounded))
+                        .foregroundStyle(.white)
+                        .monospacedDigit()
 
-                        Text(context.date.formatted(.dateTime.locale(locale).day().month(.abbreviated).weekday(.abbreviated)))
-                            .font(.system(size: 13, weight: .semibold, design: .rounded))
-                            .foregroundStyle(.white.opacity(0.80))
-                    }
-                    .padding(.horizontal, 14)
-                    .padding(.vertical, 10)
-                    .background(.white.opacity(isReminderPickerVisible ? 0.22 : 0.15), in: RoundedRectangle(cornerRadius: 18, style: .continuous))
-                    .overlay(
-                        RoundedRectangle(cornerRadius: 18, style: .continuous)
-                            .stroke(.white.opacity(isReminderPickerVisible ? 0.28 : 0.16), lineWidth: 1)
-                    )
+                    Text(now.formatted(.dateTime.locale(locale).day().month(.abbreviated).weekday(.abbreviated)))
+                        .font(.system(size: 13, weight: .semibold, design: .rounded))
+                        .foregroundStyle(.white.opacity(0.80))
                 }
-                .buttonStyle(.plain)
+                .padding(.horizontal, 14)
+                .padding(.vertical, 10)
+                .background(.white.opacity(isReminderPickerVisible ? 0.22 : 0.15), in: RoundedRectangle(cornerRadius: 18, style: .continuous))
+                .overlay(
+                    RoundedRectangle(cornerRadius: 18, style: .continuous)
+                        .stroke(.white.opacity(isReminderPickerVisible ? 0.28 : 0.16), lineWidth: 1)
+                )
             }
+            .buttonStyle(.plain)
+        }
+        .onReceive(timer) { date in
+            now = date
         }
     }
 }
@@ -1310,6 +1317,14 @@ private struct WasteSearchEntry {
     }
 }
 
+private struct WasteSearchJSONEntry: Decodable {
+    let id: String
+    let title: String
+    let aliases: [String]
+    let material_id: String
+    let note: String?
+}
+
 @MainActor
 private enum WasteSearchIndex {
     static let curatedEntries: [WasteSearchEntry] = [
@@ -1394,13 +1409,40 @@ private enum WasteSearchIndex {
         }
     }()
 
+    static var jsonEntries: [WasteSearchEntry] = {
+        guard let url = Bundle.main.url(forResource: "waste_search_index", withExtension: "json"),
+              let data = try? Data(contentsOf: url),
+              let jsonEntries = try? JSONDecoder().decode([WasteSearchJSONEntry].self, from: data)
+        else {
+            print("[WasteSearchIndex] Impossibile caricare waste_search_index.json")
+            return []
+        }
+
+        print("[WasteSearchIndex] Caricati \(jsonEntries.count) oggetti dal database JSON")
+
+        return jsonEntries.compactMap { entry in
+            guard let material = WasteCatalog.material(for: entry.material_id) else {
+                print("[WasteSearchIndex] Materiale sconosciuto: \(entry.material_id) per \(entry.title)")
+                return nil
+            }
+
+            return WasteSearchEntry(
+                id: "json-\(entry.id)",
+                title: entry.title,
+                aliases: entry.aliases,
+                material: material,
+                note: entry.note
+            )
+        }
+    }()
+
     static func search(query: String, now: Date, calendar: Calendar = .autoupdatingCurrent) -> [WasteSearchResult] {
         let normalizedQuery = normalize(query)
         guard !normalizedQuery.isEmpty else {
             return []
         }
 
-        let rankedEntries = (curatedEntries + catalogEntries)
+        let rankedEntries = (curatedEntries + catalogEntries + jsonEntries)
             .compactMap { entry -> (WasteSearchEntry, Int)? in
                 let score = entry.score(for: normalizedQuery)
                 guard score > 0 else {

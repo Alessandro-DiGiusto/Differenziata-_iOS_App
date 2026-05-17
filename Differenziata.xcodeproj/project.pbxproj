@@ -15,6 +15,7 @@
 		D244AC912FB87A6800A8E1A2 /* NotificationSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = D244AC8A2FB87A6800A8E1A2 /* NotificationSupport.swift */; };
 		D244AC922FB87A6800A8E1A2 /* WasteProfileStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = D244AC8B2FB87A6800A8E1A2 /* WasteProfileStore.swift */; };
 		D244AC932FB87A6800A8E1A2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D244AC862FB87A6800A8E1A2 /* Assets.xcassets */; };
+		3A0146B8985042EE96B8214B /* waste_search_index.json in Resources */ = {isa = PBXBuildFile; fileRef = 708363F90AEE4E6BA7DF4FED /* waste_search_index.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		D244AC8A2FB87A6800A8E1A2 /* NotificationSupport.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationSupport.swift; sourceTree = "<group>"; };
 		D244AC8B2FB87A6800A8E1A2 /* WasteProfileStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WasteProfileStore.swift; sourceTree = "<group>"; };
 		D298C10D2F9BEB1000C84C89 /* Differenziata.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Differenziata.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		708363F90AEE4E6BA7DF4FED /* waste_search_index.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = waste_search_index.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +45,7 @@
 		D298C1042F9BEB1000C84C89 = {
 			isa = PBXGroup;
 			children = (
+				708363F90AEE4E6BA7DF4FED /* waste_search_index.json */,
 				D298C10E2F9BEB1000C84C89 /* Products */,
 				D244AC852FB87A6800A8E1A2 /* APIConfig.swift */,
 				D244AC862FB87A6800A8E1A2 /* Assets.xcassets */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3A0146B8985042EE96B8214B /* waste_search_index.json in Resources */,
 				D244AC932FB87A6800A8E1A2 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

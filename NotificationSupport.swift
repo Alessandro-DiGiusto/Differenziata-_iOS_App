@@ -65,6 +65,16 @@ final class WasteNotificationManager: ObservableObject {
         ProcessInfo.processInfo.environment["XCODE_RUNNING_FOR_PREVIEWS"] == "1"
     }
 
+    /// Ultimo orario per cui abbiamo schedulato le notifiche (evita di rischedulare a ogni onAppear)
+    private var lastScheduledHour: Int {
+        get { defaults.integer(forKey: "waste.pickup.lastScheduledHour") }
+        set { defaults.set(newValue, forKey: "waste.pickup.lastScheduledHour") }
+    }
+    private var lastScheduledMinute: Int {
+        get { defaults.integer(forKey: "waste.pickup.lastScheduledMinute") }
+        set { defaults.set(newValue, forKey: "waste.pickup.lastScheduledMinute") }
+    }
+
     private init() {
         let hour = defaults.object(forKey: reminderHourKey) as? Int ?? 22
         let minute = defaults.object(forKey: reminderMinuteKey) as? Int ?? 0
@@ -96,6 +106,14 @@ final class WasteNotificationManager: ObservableObject {
         }
 
         consumePendingConfettiIfNeeded()
+
+        let hour = Calendar.autoupdatingCurrent.component(.hour, from: reminderTime)
+        let minute = Calendar.autoupdatingCurrent.component(.minute, from: reminderTime)
+
+        // Se l'orario non è cambiato, le notifiche sono già schedulatie — saltiamo
+        guard hour != lastScheduledHour || minute != lastScheduledMinute else {
+            return
+        }
 
         Task { @MainActor in
             await requestAccessAndScheduleNotifications()
@@ -167,6 +185,10 @@ final class WasteNotificationManager: ObservableObject {
 
     private func scheduleWeeklyNotifications() async {
         center.removePendingNotificationRequests(withIdentifiers: weeklyNotificationIDs)
+
+        // Salva l'orario per cui abbiamo schedulato (evita rischedule a ogni onAppear)
+        lastScheduledHour = reminderHour
+        lastScheduledMinute = reminderMinute
 
         for weekday in 1...7 {
             let payload = notificationPayload(forScheduledWeekday: weekday)
