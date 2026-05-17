@@ -42,7 +42,7 @@
 
 | Home | Ricerca | Setup | Setup 2 |
 |:---:|:---:|:---:|:---:|
-| ![Home](img/iPhone%20Screenshot/Simulator%20Screenshot%20-%20iPhone%2017%20-%202026-05-16%20at%2020.46.44.jpg) | ![Ricerca](img/iPhone%20Screenshot/Simulator%20Screenshot%20-%20iPhone%2017%20-%202026-05-16%20at%2020.47.11.jpg) | ![Setup 1](img/iPhone%20Screenshot/Simulator%20Screenshot%20-%20iPhone%2017%20-%202026-05-16%20at%2020.48.20.jpg) | ![Setup Review](img/iPhone%20Screenshot/Simulator%20Screenshot%20-%20iPhone%2017%20-%202026-05-16%20at%2020.48.26.jpg) |
+| ![Configura Comune](img/iPhone%20Screenshot/Simulator%20Screenshot%20-%20iPhone%2017%20-%202026-05-16%20at%2020.46.44.jpg) | ![Check e Salva](img/iPhone%20Screenshot/Simulator%20Screenshot%20-%20iPhone%2017%20-%202026-05-16%20at%2020.47.11.jpg) | ![Home 1](img/iPhone%20Screenshot/Simulator%20Screenshot%20-%20iPhone%2017%20-%202026-05-16%20at%2020.48.20.jpg) | ![Notifiche](img/iPhone%20Screenshot/Simulator%20Screenshot%20-%20iPhone%2017%20-%202026-05-16%20at%2020.48.26.jpg) |
 | Home principale con calendario settimanale e cosa esporre domani | Cerca oggetti — risultati con contenitore, sacchetto e prossimo ritiro | Setup wizard — configurazione comune e giorni di raccolta | Riepilogo e salvataggio profilo |
 
 ---
